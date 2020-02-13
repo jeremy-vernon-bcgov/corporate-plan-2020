@@ -1,0 +1,6096 @@
+# <!=Copyright (C) 2020 Whitebox-Studio
+# This file is distributed under the Envato Marketplaces Split Licence.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Scape 1.4.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2020-02-11 05:25:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.1\n"
+
+#: inc/menu/mega-menu.php:75
+msgid "1"
+msgstr ""
+
+#: inc/menu/mega-menu.php:76
+msgid "2"
+msgstr ""
+
+#: inc/menu/mega-menu.php:77
+msgid "3"
+msgstr ""
+
+#: inc/menu/mega-menu.php:78
+msgid "4"
+msgstr ""
+
+#: inc/menu/mega-menu.php:79
+msgid "5"
+msgstr ""
+
+#: inc/menu/mega-menu.php:80
+msgid "6"
+msgstr ""
+
+#: 404.php:23
+msgid "404"
+msgstr ""
+
+#: 404.php:24
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:25
+msgid ""
+"Looks like the page you were looking for doesn't exist. This could be a "
+"spelling error in the URL or a removed page."
+msgstr ""
+
+#: 404.php:26
+msgid "Go back to home page"
+msgstr ""
+
+#: comments.php:21
+msgid "1&nbsp;Comment"
+msgid_plural "%1$s&nbsp;Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:41
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:56 woocommerce/single-product-reviews.php:105
+msgid "Name"
+msgstr ""
+
+#: comments.php:62 woocommerce/single-product-reviews.php:107
+msgid "Email"
+msgstr ""
+
+#: comments.php:68
+msgid "Website"
+msgstr ""
+
+#: comments.php:73
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: comments.php:76
+msgid "Cancel reply"
+msgstr ""
+
+#: inc/admin-pages.php:12 inc/admin-pages.php:13
+msgid "Theme Dashboard"
+msgstr ""
+
+#: inc/admin-pages.php:12
+msgid "Scape Theme"
+msgstr ""
+
+#: inc/admin-pages.php:13
+msgid "Theme  Dashboard"
+msgstr ""
+
+#: inc/admin-pages.php:19
+msgid "Scape Dashboard"
+msgstr ""
+
+#: inc/admin-pages.php:44
+msgid "Useful links and information"
+msgstr ""
+
+#: inc/admin-pages.php:52
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/admin-pages.php:64
+msgid "Video Academy"
+msgstr ""
+
+#: inc/admin-pages.php:80
+msgid "How To Use WordPress"
+msgstr ""
+
+#: inc/admin-pages.php:91
+msgid "Help And Support"
+msgstr ""
+
+#: inc/admin-pages.php:99
+msgid "Demo Import"
+msgstr ""
+
+#: inc/admin-pages.php:139
+msgid "Uploads folder writable"
+msgstr ""
+
+#: inc/admin-pages.php:145
+msgid "Memory limit"
+msgstr ""
+
+#: inc/admin-pages.php:147 inc/admin-pages.php:153 inc/admin-pages.php:159
+#: inc/admin-pages.php:165 inc/admin-pages.php:171
+msgid "Currently: "
+msgstr ""
+
+#: inc/admin-pages.php:151
+msgid "Upload max. filesize"
+msgstr ""
+
+#: inc/admin-pages.php:157
+msgid "Max. post size"
+msgstr ""
+
+#: inc/admin-pages.php:163
+msgid "Max. input vars"
+msgstr ""
+
+#: inc/admin-pages.php:169
+msgid "Max. execution time"
+msgstr ""
+
+#: inc/admin-pages.php:178
+msgid "System Requirements"
+msgstr ""
+
+#: inc/admin-pages.php:209 inc/envato-setup/envato-setup-init.php:295
+msgid "Theme Activation"
+msgstr ""
+
+#: inc/admin-pages.php:237 inc/admin-pages.php:275
+#: inc/envato-setup/envato-setup-init.php:320
+#: inc/envato-setup/envato-setup-init.php:350
+msgid "Envato Token"
+msgstr ""
+
+#: inc/admin-pages.php:238 inc/admin-pages.php:276
+#: inc/envato-setup/envato-setup-init.php:351
+msgid "Please insert your Envato Token. %sMore info%s."
+msgstr ""
+
+#: inc/admin-pages.php:244 inc/admin-pages.php:282
+#: inc/envato-setup/envato-setup-init.php:326
+#: inc/envato-setup/envato-setup-init.php:357
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: inc/admin-pages.php:245 inc/admin-pages.php:283
+#: inc/envato-setup/envato-setup-init.php:358
+msgid "Please insert your Envato Purchase Code. %sMore info%s."
+msgstr ""
+
+#: inc/admin-pages.php:250
+msgid "Your theme license copy is activated"
+msgstr ""
+
+#: inc/admin-pages.php:255 inc/admin-pages.php:293
+#: inc/envato-setup/envato-setup-init.php:372
+msgid "Activate Code"
+msgstr ""
+
+#: inc/admin-pages.php:256 inc/admin-pages.php:294
+msgid "Deactivate Code"
+msgstr ""
+
+#: inc/admin-pages.php:261 inc/admin-pages.php:300
+#: inc/envato-setup/envato-setup-init.php:379
+msgid ""
+"Theme Purchase Code activation will give you access to theme demo content, "
+"templates and other premium features."
+msgstr ""
+
+#: inc/admin-pages.php:262 inc/admin-pages.php:301
+msgid "You can only register one license per website."
+msgstr ""
+
+#: inc/admin-pages.php:263
+msgid ""
+"You can only register one license per website. If the Purchase Code is "
+"registered elsewhere, please deactivate it on that website first."
+msgstr ""
+
+#: inc/admin-pages.php:302 inc/envato-setup/envato-setup-init.php:380
+msgid ""
+"You can only register one license per website. If the purchase code is "
+"registered elsewhere, please deactivate it on that website first."
+msgstr ""
+
+#: inc/ajax-load.php:63
+msgid "No images found"
+msgstr ""
+
+#: inc/breadcrumbs.php:35
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:224 inc/breadcrumbs.php:227 inc/breadcrumbs.php:230
+msgid "Archives for "
+msgstr ""
+
+#: inc/breadcrumbs.php:234
+msgid "Archives by: "
+msgstr ""
+
+#: inc/breadcrumbs.php:239
+msgid "Search results for \""
+msgstr ""
+
+#: inc/breadcrumbs.php:243
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:286
+msgid "Split"
+msgstr ""
+
+#: inc/breadcrumbs.php:289
+msgid "Merge"
+msgstr ""
+
+#: inc/breadcrumbs.php:292 inc/breadcrumbs.php:306 inc/breadcrumbs.php:326
+#: woocommerce/myaccount/my-address.php:57
+msgid "Edit"
+msgstr ""
+
+#: inc/comment-walker.php:58
+msgid "Reply"
+msgstr ""
+
+#: inc/comment-walker.php:67 inc/comment-walker.php:69
+msgid "(Edit)"
+msgstr ""
+
+#: inc/comment-walker.php:75
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/custom-fonts.php:159
+msgid "Font already exists"
+msgstr ""
+
+#: inc/custom-fonts.php:492
+msgid "No Kits found with this name."
+msgstr ""
+
+#: inc/custom-fonts.php:495
+msgid "Sorry, an error occurred while trying to connect to Typekit."
+msgstr ""
+
+#: inc/custom-fonts.php:499
+msgid "Missing API Key or Kit ID."
+msgstr ""
+
+#: inc/custom-functions.php:710
+msgid "scroll"
+msgstr ""
+
+#: inc/custom-functions.php:720
+msgid "scroll down"
+msgstr ""
+
+#: inc/custom-functions.php:806
+msgid "&laquo; Previous"
+msgstr ""
+
+#: inc/custom-functions.php:807
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/custom-functions.php:892
+msgid "&hellip;"
+msgstr ""
+
+#: inc/custom-functions.php:1252
+#: templates/blog-post/column/blog-entry-column.php:56
+#: templates/blog-post/default/blog-entry-default.php:66
+msgid "Read more"
+msgstr ""
+
+#: inc/custom-functions.php:1256
+msgid "Continue reading: "
+msgstr ""
+
+#: inc/custom-functions.php:1379 inc/options.php:358
+msgid "Header style 1"
+msgstr ""
+
+#: inc/custom-functions.php:1431 inc/custom-functions.php:1472
+#: inc/custom-functions.php:1510 inc/custom-functions.php:1539
+#: inc/custom-functions.php:1591
+msgid "Top bar"
+msgstr ""
+
+#: inc/custom-functions.php:1434 inc/custom-functions.php:1461
+#: inc/custom-functions.php:1475 inc/custom-functions.php:1513
+#: inc/custom-functions.php:1542 inc/custom-functions.php:1557
+#: inc/custom-functions.php:1594
+msgid "Left area"
+msgstr ""
+
+#: inc/custom-functions.php:1437 inc/custom-functions.php:1452
+#: inc/custom-functions.php:1464 inc/custom-functions.php:1478
+#: inc/custom-functions.php:1490 inc/custom-functions.php:1502
+#: inc/custom-functions.php:1516 inc/custom-functions.php:1531
+#: inc/custom-functions.php:1548 inc/custom-functions.php:1563
+#: inc/custom-functions.php:1597 inc/custom-functions.php:1612
+#: inc/custom-functions.php:1626 inc/custom-functions.php:1658
+msgid "Right area"
+msgstr ""
+
+#: inc/custom-functions.php:1443 inc/custom-functions.php:1496
+#: inc/custom-functions.php:1522 inc/custom-functions.php:1554
+#: inc/custom-functions.php:1571 inc/custom-functions.php:1603
+msgid "Header"
+msgstr ""
+
+#: inc/custom-functions.php:1446 inc/custom-functions.php:1487
+#: inc/custom-functions.php:1528 inc/custom-functions.php:1545
+#: inc/custom-functions.php:1574 inc/custom-functions.php:1606
+#: inc/custom-functions.php:1623 inc/custom-functions.php:1655
+#: inc/custom-functions.php:1687 inc/custom-functions.php:1722
+#: inc/custom-functions.php:1753 inc/envato-setup/envato-setup.php:396
+#: inc/envato-setup/envato-setup.php:2220 inc/options.php:507
+#: inc/options.php:1137 inc/options.php:1771 inc/options.php:2408
+#: inc/options.php:3034 inc/options.php:3549 inc/options.php:4053
+#: inc/options.php:4535 inc/options.php:5050 inc/options.php:5565
+#: inc/options.php:6077 inc/options.php:6464 inc/options.php:6889
+#: inc/options.php:7360 inc/options.php:7687 inc/options.php:8051
+#: inc/options.php:8058 inc/options.php:8413 inc/options.php:9095
+#: inc/options.php:11994
+msgid "Logo"
+msgstr ""
+
+#: inc/custom-functions.php:1449 inc/custom-functions.php:1499
+#: inc/custom-functions.php:1525 inc/custom-functions.php:1560
+#: inc/custom-functions.php:1609 inc/custom-functions.php:1696
+#: inc/custom-functions.php:1731 inc/custom-functions.php:1776
+msgid "Main menu area"
+msgstr ""
+
+#: inc/custom-functions.php:1458 inc/custom-functions.php:1484
+msgid "Bottom bar"
+msgstr ""
+
+#: inc/custom-functions.php:1577
+msgid "Main menu (hidden) area"
+msgstr ""
+
+#: inc/custom-functions.php:1580
+msgid "Right (visible) area"
+msgstr ""
+
+#: inc/custom-functions.php:1583
+msgid "Right (hidden) area"
+msgstr ""
+
+#: inc/custom-functions.php:1620 inc/custom-functions.php:1652
+msgid "Idle section"
+msgstr ""
+
+#: inc/custom-functions.php:1632 inc/custom-functions.php:1664
+msgid "Overlay section"
+msgstr ""
+
+#: inc/custom-functions.php:1635 inc/custom-functions.php:1667
+msgid "Overlay header area"
+msgstr ""
+
+#: inc/custom-functions.php:1639 inc/custom-functions.php:1671
+msgid "Overlay main menu area"
+msgstr ""
+
+#: inc/custom-functions.php:1643 inc/custom-functions.php:1675
+msgid "Overlay footer area"
+msgstr ""
+
+#: inc/custom-functions.php:1684 inc/custom-functions.php:1719
+#: inc/options.php:10656 inc/options.php:11272 inc/options.php:11548
+#: inc/options.php:13876
+msgid "Top"
+msgstr ""
+
+#: inc/custom-functions.php:1693 inc/custom-functions.php:1728
+msgid "Main"
+msgstr ""
+
+#: inc/custom-functions.php:1703 inc/custom-functions.php:1738
+#: inc/options.php:10041 inc/options.php:13785
+msgid "Footer"
+msgstr ""
+
+#: inc/custom-functions.php:1706 inc/custom-functions.php:1786
+msgid "Footer area (inline)"
+msgstr ""
+
+#: inc/custom-functions.php:1710 inc/custom-functions.php:1790
+msgid "Footer area (stacked)"
+msgstr ""
+
+#: inc/custom-functions.php:1741
+msgid "Footer area"
+msgstr ""
+
+#: inc/custom-functions.php:1750 inc/options.php:9129
+msgid "Top header"
+msgstr ""
+
+#: inc/custom-functions.php:1756
+msgid "Idle area"
+msgstr ""
+
+#: inc/custom-functions.php:1766
+msgid "Top header area"
+msgstr ""
+
+#: inc/custom-functions.php:1773 inc/options.php:9241
+msgid "Side navigation"
+msgstr ""
+
+#: inc/custom-functions.php:1814
+msgid "Menus"
+msgstr ""
+
+#: inc/custom-functions.php:1828
+msgid "Buttons"
+msgstr ""
+
+#: inc/custom-functions.php:1832
+msgid "Search button"
+msgstr ""
+
+#: inc/custom-functions.php:1836
+msgid "Search button alt"
+msgstr ""
+
+#: inc/custom-functions.php:1840
+msgid "Sidearea button"
+msgstr ""
+
+#: inc/custom-functions.php:1844
+msgid "Overlay button"
+msgstr ""
+
+#: inc/custom-functions.php:1848 inc/options.php:12088
+msgid "Primary button"
+msgstr ""
+
+#: inc/custom-functions.php:1852 inc/options.php:12268
+msgid "Secondary button"
+msgstr ""
+
+#: inc/custom-functions.php:1857 inc/envato-setup/envato-setup.php:907
+#: inc/options.php:10090
+msgid "Widgets"
+msgstr ""
+
+#: inc/custom-functions.php:1861
+msgid "Search field"
+msgstr ""
+
+#: inc/custom-functions.php:1865
+msgid "Social icons"
+msgstr ""
+
+#: inc/custom-functions.php:1869 woocommerce/global/form-login.php:54
+#: woocommerce/myaccount/form-login.php:45
+#: woocommerce/myaccount/form-login.php:67
+msgid "Login"
+msgstr ""
+
+#: inc/custom-functions.php:1873
+msgid "Login alt"
+msgstr ""
+
+#: inc/custom-functions.php:1877
+msgid "Language switch"
+msgstr ""
+
+#: inc/custom-functions.php:1881
+msgid "Language switch alt"
+msgstr ""
+
+#: inc/custom-functions.php:1886 inc/options.php:11369
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/custom-functions.php:1890
+msgid "Cart"
+msgstr ""
+
+#: inc/custom-functions.php:1894
+msgid "Cart alt"
+msgstr ""
+
+#: inc/custom-functions.php:1898
+msgid "Wishlist"
+msgstr ""
+
+#: inc/custom-functions.php:1902
+msgid "Wishlist alt"
+msgstr ""
+
+#: inc/custom-functions.php:1907
+msgid "Miscellaneous"
+msgstr ""
+
+#: inc/custom-functions.php:1911
+msgid "Text info"
+msgstr ""
+
+#: inc/custom-functions.php:1915 inc/options.php:980 inc/options.php:1607
+#: inc/options.php:2244 inc/options.php:2881 inc/options.php:3396
+#: inc/options.php:3911 inc/options.php:4382 inc/options.php:4897
+#: inc/options.php:5412 inc/options.php:5924 inc/options.php:6439
+#: inc/options.php:6864 inc/options.php:7289 inc/options.php:7616
+#: inc/options.php:7943 inc/options.php:8364 inc/options.php:8956
+#: inc/options.php:9013 inc/options.php:9064 inc/options.php:9357
+#: inc/options.php:9522 inc/options.php:9535 inc/options.php:10067
+#: inc/options.php:10200 inc/options.php:10276 inc/options.php:10773
+#: inc/options.php:11047 inc/options.php:11329 inc/options.php:11937
+#: inc/options.php:13312 inc/options.php:13325 inc/options.php:13803
+msgid "Content block"
+msgstr ""
+
+#: inc/custom-functions.php:1919
+msgid "Space"
+msgstr ""
+
+#: inc/custom-functions.php:1923 inc/options.php:12154 inc/options.php:12235
+#: inc/options.php:12334 inc/options.php:12418
+msgid "Border"
+msgstr ""
+
+#: inc/custom-functions.php:1951 inc/custom-functions.php:1965
+#: templates/header/parts/login.php:5 templates/header/parts/login_alt.php:5
+msgid "Sign in"
+msgstr ""
+
+#: inc/custom-functions.php:1952
+msgid "Username / Email"
+msgstr ""
+
+#: inc/custom-functions.php:1953
+msgid "Forgot password?"
+msgstr ""
+
+#: inc/custom-functions.php:2181 inc/options.php:502 inc/options.php:1132
+#: inc/options.php:1766 inc/options.php:2403 inc/options.php:3029
+#: inc/options.php:3544 inc/options.php:4048 inc/options.php:4530
+#: inc/options.php:5045 inc/options.php:5560 inc/options.php:6072
+#: inc/options.php:6620 inc/options.php:7045 inc/options.php:9236
+#: inc/options.php:9525 inc/options.php:9647 inc/options.php:9779
+#: inc/options.php:10198 inc/options.php:10582 inc/options.php:10661
+#: inc/options.php:11198 inc/options.php:11278 inc/options.php:11467
+#: inc/options.php:11553 inc/options.php:13310 inc/options.php:13882
+msgid "Disable"
+msgstr ""
+
+#: inc/custom-icon-fonts.php:31 inc/custom-icon-fonts.php:50
+#: inc/custom-icon-fonts.php:136 inc/custom-icon-fonts.php:159
+#: inc/custom-icon-fonts.php:161
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/custom-icon-fonts.php:49
+msgid ""
+"There was a problem with the file you uploaded. Make sure that you're "
+"uploading a .zip file from"
+msgstr ""
+
+#: inc/custom-icon-fonts.php:125
+msgid "Are you sure you want to remove this font?"
+msgstr ""
+
+#: inc/custom-icon-fonts.php:125 inc/menu/edit-mega-menu-walker.php:253
+#: woocommerce/wishlist-view.php:228
+msgid "Remove"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:70
+msgid "Upgrade"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:71
+msgid "Upgrade Content and Settings"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:72
+#: inc/envato-setup/envato-setup.php:896 inc/envato-setup/envato-setup.php:909
+#: inc/envato-setup/envato-setup.php:919
+msgid "Pending."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:73
+msgid "Installing Updates."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:74
+#: inc/envato-setup/envato-setup.php:898 inc/envato-setup/envato-setup.php:911
+#: inc/envato-setup/envato-setup.php:921
+msgid "Success."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:120
+#: inc/envato-setup/envato-setup-init.php:132
+msgid ""
+"Something went wrong. Please install the Child theme manually from the "
+"theme package."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:124
+msgid "Child theme has been already installed."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:130
+msgid ""
+"Child theme has been installed successfully. Please activate it from "
+"<strong>Appearance > Themes</strong> panel after finishing this setup."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:177
+#: inc/envato-setup/envato-setup-init.php:188
+#: inc/envato-setup/envato-setup-init.php:199
+#: inc/envato-setup/envato-setup.php:603 inc/envato-setup/envato-setup.php:614
+#: inc/envato-setup/envato-setup.php:637
+msgid "Welcome to the setup wizard for %s."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:178
+#: inc/envato-setup/envato-setup.php:604
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This "
+"setup wizard will help ensure all the default settings are correct. It will "
+"also show some information about your new website and support options."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:181
+#: inc/envato-setup/envato-setup-init.php:206
+#: inc/envato-setup/envato-setup.php:609 inc/envato-setup/envato-setup.php:644
+msgid "Not right now"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:183
+#: inc/envato-setup/envato-setup-init.php:204
+#: inc/envato-setup/envato-setup.php:607 inc/envato-setup/envato-setup.php:642
+msgid "Let's Go!"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:189
+#: inc/envato-setup/envato-setup.php:615
+msgid ""
+"It looks like you have already run the setup wizard. Below are some "
+"options: "
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:192
+#: inc/envato-setup/envato-setup.php:632 inc/menu/edit-mega-menu-walker.php:254
+#: woocommerce/myaccount/my-orders.php:86 woocommerce/wishlist-view.php:47
+msgid "Cancel"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:194
+#: inc/envato-setup/envato-setup.php:619
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:200
+msgid ""
+"Thank you for choosing the %s theme from ThemeForest. This quick setup "
+"wizard will help you configure your new website. This wizard will install "
+"the required WordPress plugins, Child theme, and tell you a little about "
+"Help &amp; Support options. It should only take 5 minutes."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:201
+#: inc/envato-setup/envato-setup.php:639
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:242
+#: inc/envato-setup/envato-setup.php:765
+msgid "Bundled Plugins"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:249
+#: inc/envato-setup/envato-setup.php:772
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed or updated:"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:276
+#: inc/envato-setup/envato-setup.php:797
+msgid ""
+"Good news! All plugins are already installed and up to date. Please "
+"continue."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:279
+#: inc/envato-setup/envato-setup.php:800
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:283
+#: inc/envato-setup/envato-setup-init.php:368
+#: inc/envato-setup/envato-setup.php:807 inc/envato-setup/envato-setup.php:980
+#: inc/envato-setup/envato-setup.php:2191
+#: inc/envato-setup/envato-setup.php:2253
+#: inc/envato-setup/envato-setup.php:2351
+msgid "Skip this step"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:286
+#: inc/envato-setup/envato-setup-init.php:336
+#: inc/envato-setup/envato-setup-init.php:370
+#: inc/envato-setup/envato-setup-init.php:417
+#: inc/envato-setup/envato-setup.php:805 inc/envato-setup/envato-setup.php:978
+#: inc/envato-setup/envato-setup.php:2189
+#: inc/envato-setup/envato-setup.php:2251
+#: inc/envato-setup/envato-setup.php:2335
+#: inc/envato-setup/envato-setup.php:2407
+msgid "Continue"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:331
+msgid "Congratulations, your theme copy is activated!"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:410
+msgid "Install Child Theme"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:462
+#: inc/envato-setup/envato-setup.php:2444
+msgid "Agree and Continue"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:473
+#: inc/envato-setup/envato-setup.php:2472
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:482
+#: inc/envato-setup/envato-setup.php:2482
+msgid "Next Steps"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:485
+msgid "Start configuring"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:488
+msgid "Go to demo import"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:491
+#: inc/envato-setup/envato-setup.php:2489
+msgid "View your new website!"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:496
+#: inc/envato-setup/envato-setup.php:2494
+msgid "More Resources"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:499
+#: inc/envato-setup/envato-setup.php:2497
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:502
+#: inc/envato-setup/envato-setup.php:2500
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:505
+#: inc/envato-setup/envato-setup.php:2503
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:507
+#: inc/envato-setup/envato-setup.php:2505
+msgid "Get Help and Support"
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:522 inc/options.php:34
+msgid ""
+"Please activate your theme Purchase Code to get access to demo content, "
+"templates and other premium features."
+msgstr ""
+
+#: inc/envato-setup/envato-setup-init.php:525
+#: inc/envato-setup/envato-setup.php:2755
+msgid "<a class=\"button button-primary\" href=\"%s\">Activate License</a>"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:348
+msgid "Setup Wizard"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:366
+msgid "Introduction"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:373
+#: inc/plugins/tgm-register-plugins.php:137
+msgid "Plugins"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:379
+msgid "Activation"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:385
+msgid "Style"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:391 inc/options.php:10157
+#: inc/options.php:10497 inc/options.php:10767 inc/options.php:11041
+#: inc/options.php:11084 inc/options.php:11323 inc/options.php:11390
+#: inc/options.php:11598 inc/options.php:11886 inc/options.php:11915
+msgid "Content"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:401
+msgid "Customization"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:406
+msgid "Support"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:411
+msgid "Ready!"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:446
+msgid "...verifying"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:506
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:525
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:625
+msgid "Reset font style and colors"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:638
+msgid ""
+"Thank you for choosing the %s theme from ThemeForest. This quick setup "
+"wizard will help you configure your new website. This wizard will install "
+"the required WordPress plugins, default content, logo and tell you a little "
+"about Help &amp; Support options. It should only take 5 minutes."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:688
+msgid ""
+"Options have been reset. Please go to Appearance > Customize in the "
+"WordPress backend."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:817
+msgid "No Slug Found"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:833
+msgid "Activating Plugin"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:848
+msgid "Updating Plugin"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:863
+msgid "Installing Plugin"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:873
+msgid "Success"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:895
+msgid "This will create default %s as seen in the demo."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:897
+msgid "Installing."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:908
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:910
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:917
+msgid "Settings"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:918
+msgid "Configure default settings."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:920
+msgid "Installing Default Settings."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:938
+msgid "Default Content"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:941
+msgid ""
+"It looks like you already have content installed on this website. If you "
+"would like to install the default demo content as well you can select it "
+"below. Otherwise just choose the upgrade option to ensure everything is up "
+"to date."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:943
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue. It is "
+"recommended to leave everything selected. Once inserted, this content can "
+"be managed from the WordPress admin dashboard. "
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:949
+msgid "Item"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:950 inc/menu/edit-mega-menu-walker.php:220
+msgid "Description"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:951
+#: inc/plugins/class-tgm-plugin-activation.php:2639
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:991
+msgid "No content Found"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:1059
+msgid "Error"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:1935
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:1943
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:1949
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:1955
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2167
+msgid "Site Style"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2169
+msgid "Please choose your site style below."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2222
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG ( 466 by 277 pixels). The logo can be changed at any time "
+"from the Appearance > Customize area in your dashboard. Try %sEnvato "
+"Studio%s if you need a new logo designed."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2242
+msgid "Upload New Logo"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2307
+msgid "Theme Updates"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2340
+msgid ""
+"Please login using your ThemeForest account to enable Theme Updates. We "
+"update themes when a new feature is added or a bug is fixed. It is highly "
+"recommended to enable Theme Updates."
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2349
+msgid "Login with Envato"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2486
+msgid "Follow @dtbaker on Twitter"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2570
+msgid "Something went wrong while trying to retrieve oauth token: %s"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2587
+msgid "Login for %s updates"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2594
+msgid "oAuth Login"
+msgstr ""
+
+#: inc/envato-setup/envato-setup.php:2752
+msgid ""
+"Please activate ThemeForest updates to ensure you have the latest version "
+"of this theme."
+msgstr ""
+
+#: inc/helper-functions.php:126
+msgid "Min"
+msgstr ""
+
+#: inc/helper-functions.php:129
+msgid "Minutes"
+msgstr ""
+
+#: inc/helper-functions.php:131
+msgid "Minute"
+msgstr ""
+
+#: inc/helper-functions.php:185
+msgid "Search Results for: "
+msgstr ""
+
+#: inc/helper-functions.php:202 inc/options.php:10753 inc/options.php:11310
+msgid "Archives"
+msgstr ""
+
+#: inc/helper-functions.php:206
+msgid "Blog"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:90
+#. translators: %s: title of menu item which is invalid
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:94
+#. translators: %s: title of menu item in draft status
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:103
+msgid "sub item"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:118
+msgid "Move up"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:131
+msgid "Move down"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:133
+#: inc/menu/edit-mega-menu-walker.php:135
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:144
+msgid "URL"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:151
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:157
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:164
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:169
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:175
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:210
+msgid "Upload Image"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:211
+msgid "Remove Image"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:222
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:228 woocommerce/wishlist-view.php:196
+msgid "Move"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:229
+msgid "Up one"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:230
+msgid "Down one"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:233
+msgid "To the top"
+msgstr ""
+
+#: inc/menu/edit-mega-menu-walker.php:240
+msgid "Original: %s"
+msgstr ""
+
+#: inc/menu/mega-menu.php:16
+msgid "Icon"
+msgstr ""
+
+#: inc/menu/mega-menu.php:22
+msgid "Enable mega menu"
+msgstr ""
+
+#: inc/menu/mega-menu.php:24 inc/menu/mega-menu.php:32
+#: inc/menu/mega-menu.php:39 inc/options.php:9636 inc/options.php:10329
+#: inc/options.php:10876 inc/options.php:13422
+msgid "Yes"
+msgstr ""
+
+#: inc/menu/mega-menu.php:24 inc/menu/mega-menu.php:32
+#: inc/menu/mega-menu.php:39 inc/options.php:9637 inc/options.php:10330
+#: inc/options.php:10877 inc/options.php:13423
+msgid "No"
+msgstr ""
+
+#: inc/menu/mega-menu.php:30
+msgid "Enable full-width menu"
+msgstr ""
+
+#: inc/menu/mega-menu.php:38
+msgid "3rd level menu on the opposite side"
+msgstr ""
+
+#: inc/menu/mega-menu.php:46 inc/options.php:10516 inc/options.php:12953
+msgid "Image"
+msgstr ""
+
+#: inc/menu/mega-menu.php:53
+msgid "Background position"
+msgstr ""
+
+#: inc/menu/mega-menu.php:56
+msgid "Left top"
+msgstr ""
+
+#: inc/menu/mega-menu.php:57
+msgid "Left center"
+msgstr ""
+
+#: inc/menu/mega-menu.php:58
+msgid "Left bottom"
+msgstr ""
+
+#: inc/menu/mega-menu.php:59
+msgid "Right top"
+msgstr ""
+
+#: inc/menu/mega-menu.php:60
+msgid "Right center"
+msgstr ""
+
+#: inc/menu/mega-menu.php:61
+msgid "Right bottom"
+msgstr ""
+
+#: inc/menu/mega-menu.php:62
+msgid "Center top"
+msgstr ""
+
+#: inc/menu/mega-menu.php:63
+msgid "Center center"
+msgstr ""
+
+#: inc/menu/mega-menu.php:64
+msgid "Center bottom"
+msgstr ""
+
+#: inc/menu/mega-menu.php:71
+msgid "Number of equal columns"
+msgstr ""
+
+#: inc/menu/mega-menu.php:74
+msgid "Disable equal columns"
+msgstr ""
+
+#: inc/menu/mega-menu.php:172
+msgid "Select icon"
+msgstr ""
+
+#: inc/menu/mega-menu.php:172
+msgid "Remove icon"
+msgstr ""
+
+#: inc/options.php:35
+msgid "Activate License"
+msgstr ""
+
+#: inc/options.php:55 inc/options.php:56
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options.php:166
+msgid "General Settings"
+msgstr ""
+
+#: inc/options.php:173 inc/options.php:9513 inc/options.php:10050
+#: inc/options.php:12460
+msgid "General"
+msgstr ""
+
+#: inc/options.php:181 inc/options.php:9906 inc/options.php:13624
+msgid "Layout width"
+msgstr ""
+
+#: inc/options.php:182
+msgid ""
+"Specify the maximum width of the website content. Units - "
+"<strong>px</strong>."
+msgstr ""
+
+#: inc/options.php:188
+msgid "Enable smooth scroll in Chrome browser"
+msgstr ""
+
+#: inc/options.php:194
+msgid "Disable appearance animation"
+msgstr ""
+
+#: inc/options.php:195
+msgid "Disable the appearance effect for shortcodes"
+msgstr ""
+
+#: inc/options.php:197
+msgid "Tablet Landscape and below"
+msgstr ""
+
+#: inc/options.php:198
+msgid "Tablet Portrait and below"
+msgstr ""
+
+#: inc/options.php:199
+msgid "Mobile Landscape and below"
+msgstr ""
+
+#: inc/options.php:200
+msgid "Mobile Portrait and below"
+msgstr ""
+
+#: inc/options.php:203
+msgid "Don't disable"
+msgstr ""
+
+#: inc/options.php:208
+msgid "Google API key"
+msgstr ""
+
+#: inc/options.php:209
+msgid ""
+"Google API key is needed to update the list of available Google Fonts, and "
+"to be able to use Google Maps shortcode."
+msgstr ""
+
+#: inc/options.php:210
+msgid ""
+"The API key can be obtained for free - please read <a "
+"href=\"//developers.google.com/maps/documentation/javascript/get-api-key\" "
+"target=\"_blank\">this</a> for how to get an API key."
+msgstr ""
+
+#: inc/options.php:217
+msgid "Images"
+msgstr ""
+
+#: inc/options.php:225
+msgid "Responsive image sizes"
+msgstr ""
+
+#: inc/options.php:226
+msgid "Enter the image sizes you want to use with responsive image system."
+msgstr ""
+
+#: inc/options.php:227
+msgid ""
+"Values must be comma separated. For more info on responsive images please "
+"refer to <a href=\"http://docs.whiteboxstud.io/scape/#3-images\" "
+"target=\"_blank\"></a>."
+msgstr ""
+
+#: inc/options.php:233
+msgid "Image lazy-loading"
+msgstr ""
+
+#: inc/options.php:234
+msgid "Improves page load speed as images are loaded asynchronously."
+msgstr ""
+
+#: inc/options.php:235 inc/options.php:243
+msgid ""
+"Will affect images that support lazy loading and for which lazy loading "
+"cannot be switched individually."
+msgstr ""
+
+#: inc/options.php:241
+msgid "Image preloader animation"
+msgstr ""
+
+#: inc/options.php:242
+msgid "Animated preloader visible while image is loading."
+msgstr ""
+
+#: inc/options.php:251
+msgid "Social Media"
+msgstr ""
+
+#: inc/options.php:255
+msgid ""
+"Enter links to your social media profiles to be used in social icons "
+"shortcode and widgets."
+msgstr ""
+
+#: inc/options.php:260
+msgid "Custom code &amp; analytics"
+msgstr ""
+
+#: inc/options.php:264
+msgid ""
+"Custom code which will be executed on pages. Useful for tracking, analytics "
+"and other tools."
+msgstr ""
+
+#: inc/options.php:274 inc/options.php:306
+msgid "Code in <code>&lt;head&gt;</code>"
+msgstr ""
+
+#: inc/options.php:275
+msgid ""
+"This code will be placed right before the closing of "
+"<code>&lt;/head&gt;</code> tag. Useful for analytics and tracking code."
+msgstr ""
+
+#: inc/options.php:285 inc/options.php:307
+msgid "Code after <code>&lt;body&gt;</code> tag"
+msgstr ""
+
+#: inc/options.php:286
+msgid ""
+"This code will be placed immediately after the opening of "
+"<code>&lt;body&gt;</code> tag."
+msgstr ""
+
+#: inc/options.php:296 inc/options.php:308
+msgid "Code before <code>&lt;/body&gt;</code> tag"
+msgstr ""
+
+#: inc/options.php:297
+msgid ""
+"This code will be placed right before the closing of "
+"<code>&lt;/body&gt;</code> tag."
+msgstr ""
+
+#: inc/options.php:302
+msgid "Code excluded by the <strong>Tracking</strong> consent."
+msgstr ""
+
+#: inc/options.php:303
+msgid ""
+"Tracking code inclusion/exclusion is controlled by the "
+"<strong>Tracking</strong> consent."
+msgstr ""
+
+#: inc/options.php:304
+msgid ""
+"Select which custom code areas should not be used on the site unless a "
+"visitor gives his consent to share tracking data."
+msgstr ""
+
+#: inc/options.php:315
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/options.php:328
+msgid "Enter your custom CSS code here"
+msgstr ""
+
+#: inc/options.php:334
+msgid "Custom post types"
+msgstr ""
+
+#: inc/options.php:338
+msgid ""
+"For advanced users. If you are adding custom post types, you can add the "
+"\"$post_type\" parameters which you pass to \"register_post_type()\" "
+"function here. Separate options tab will then be generated for each custom "
+"post type, allowing to set Header, Hero Section, Layout and Footer options. "
+"For more information please refer to theme documentation."
+msgstr ""
+
+#: inc/options.php:343
+msgid "Enter <code>$post_type</code> parameter string"
+msgstr ""
+
+#: inc/options.php:344
+msgid "E.g. \"events\", \"works\", etc."
+msgstr ""
+
+#: inc/options.php:350
+msgid "Header Settings"
+msgstr ""
+
+#: inc/options.php:362 inc/options.php:992 inc/options.php:1619
+#: inc/options.php:2256 inc/options.php:2893 inc/options.php:3408
+#: inc/options.php:3923 inc/options.php:4394 inc/options.php:4909
+#: inc/options.php:5424 inc/options.php:5936 inc/options.php:6451
+#: inc/options.php:6876 inc/options.php:7301 inc/options.php:7628
+#: inc/options.php:7955
+msgid "Set the look and contents of the header"
+msgstr ""
+
+#: inc/options.php:375 inc/options.php:1005 inc/options.php:1632
+#: inc/options.php:2269 inc/options.php:2906 inc/options.php:3421
+#: inc/options.php:3936 inc/options.php:4407 inc/options.php:4922
+#: inc/options.php:5437 inc/options.php:5949 inc/options.php:7314
+#: inc/options.php:7641 inc/options.php:7968 inc/options.php:8382
+msgid "General settings"
+msgstr ""
+
+#: inc/options.php:381 inc/options.php:1011 inc/options.php:1638
+#: inc/options.php:2275 inc/options.php:2912 inc/options.php:3427
+#: inc/options.php:3942 inc/options.php:4413 inc/options.php:4928
+#: inc/options.php:5443 inc/options.php:5955 inc/options.php:6539
+#: inc/options.php:6964
+msgid "Header layout"
+msgstr ""
+
+#: inc/options.php:384 inc/options.php:385 inc/options.php:1014
+#: inc/options.php:1015 inc/options.php:1641 inc/options.php:1642
+#: inc/options.php:2278 inc/options.php:2279 inc/options.php:2915
+#: inc/options.php:2916 inc/options.php:3430 inc/options.php:3431
+#: inc/options.php:3945 inc/options.php:3946 inc/options.php:4416
+#: inc/options.php:4417 inc/options.php:4931 inc/options.php:4932
+#: inc/options.php:5446 inc/options.php:5447 inc/options.php:5958
+#: inc/options.php:5959 inc/options.php:6542 inc/options.php:6543
+#: inc/options.php:6967 inc/options.php:6968
+msgid "Boxed"
+msgstr ""
+
+#: inc/options.php:389 inc/options.php:390 inc/options.php:1019
+#: inc/options.php:1020 inc/options.php:1646 inc/options.php:1647
+#: inc/options.php:2283 inc/options.php:2284 inc/options.php:2920
+#: inc/options.php:2921 inc/options.php:3435 inc/options.php:3436
+#: inc/options.php:3950 inc/options.php:3951 inc/options.php:4421
+#: inc/options.php:4422 inc/options.php:4936 inc/options.php:4937
+#: inc/options.php:5451 inc/options.php:5452 inc/options.php:5963
+#: inc/options.php:5964 inc/options.php:6547 inc/options.php:6548
+#: inc/options.php:6972 inc/options.php:6973
+msgid "Contained"
+msgstr ""
+
+#: inc/options.php:394 inc/options.php:395 inc/options.php:1024
+#: inc/options.php:1025 inc/options.php:1651 inc/options.php:1652
+#: inc/options.php:2288 inc/options.php:2289 inc/options.php:2925
+#: inc/options.php:2926 inc/options.php:3440 inc/options.php:3441
+#: inc/options.php:3955 inc/options.php:3956 inc/options.php:4426
+#: inc/options.php:4427 inc/options.php:4941 inc/options.php:4942
+#: inc/options.php:5456 inc/options.php:5457 inc/options.php:5968
+#: inc/options.php:5969 inc/options.php:6552 inc/options.php:6553
+#: inc/options.php:6977 inc/options.php:6978
+msgid "Full-width"
+msgstr ""
+
+#: inc/options.php:404 inc/options.php:1034 inc/options.php:2935
+#: inc/options.php:3450 inc/options.php:4436 inc/options.php:4951
+#: inc/options.php:5466 inc/options.php:5978
+msgid "Header topbar height"
+msgstr ""
+
+#: inc/options.php:405 inc/options.php:416 inc/options.php:427
+#: inc/options.php:531 inc/options.php:538 inc/options.php:544
+#: inc/options.php:1035 inc/options.php:1046 inc/options.php:1057
+#: inc/options.php:1161 inc/options.php:1168 inc/options.php:1174
+#: inc/options.php:1662 inc/options.php:1673 inc/options.php:1684
+#: inc/options.php:1795 inc/options.php:1802 inc/options.php:1808
+#: inc/options.php:2299 inc/options.php:2310 inc/options.php:2321
+#: inc/options.php:2432 inc/options.php:2439 inc/options.php:2445
+#: inc/options.php:2936 inc/options.php:2947 inc/options.php:3058
+#: inc/options.php:3065 inc/options.php:3071 inc/options.php:3451
+#: inc/options.php:3462 inc/options.php:3573 inc/options.php:3580
+#: inc/options.php:3586 inc/options.php:3966 inc/options.php:4077
+#: inc/options.php:4084 inc/options.php:4090 inc/options.php:4437
+#: inc/options.php:4448 inc/options.php:4559 inc/options.php:4566
+#: inc/options.php:4572 inc/options.php:4952 inc/options.php:4963
+#: inc/options.php:5074 inc/options.php:5081 inc/options.php:5087
+#: inc/options.php:5467 inc/options.php:5478 inc/options.php:5589
+#: inc/options.php:5596 inc/options.php:5602 inc/options.php:5979
+#: inc/options.php:5990 inc/options.php:6101 inc/options.php:6108
+#: inc/options.php:6114 inc/options.php:6488 inc/options.php:6495
+#: inc/options.php:6501 inc/options.php:6563 inc/options.php:6913
+#: inc/options.php:6920 inc/options.php:6926 inc/options.php:6988
+#: inc/options.php:7321 inc/options.php:7384 inc/options.php:7391
+#: inc/options.php:7397 inc/options.php:7648 inc/options.php:7711
+#: inc/options.php:7718 inc/options.php:7724 inc/options.php:7975
+#: inc/options.php:7986 inc/options.php:8067 inc/options.php:8074
+#: inc/options.php:8080 inc/options.php:8109 inc/options.php:8116
+#: inc/options.php:8122 inc/options.php:8389 inc/options.php:8437
+#: inc/options.php:8444 inc/options.php:8450 inc/options.php:9111
+#: inc/options.php:9118 inc/options.php:9124
+msgid "Units - <strong>px</strong>."
+msgstr ""
+
+#: inc/options.php:415 inc/options.php:1045 inc/options.php:1683
+#: inc/options.php:2320 inc/options.php:2946 inc/options.php:3461
+#: inc/options.php:3965 inc/options.php:4447 inc/options.php:4962
+#: inc/options.php:5477 inc/options.php:5989 inc/options.php:6562
+#: inc/options.php:6987
+msgid "Header main section height"
+msgstr ""
+
+#: inc/options.php:426 inc/options.php:1056 inc/options.php:1672
+#: inc/options.php:2309
+msgid "Header bottom bar height"
+msgstr ""
+
+#: inc/options.php:438 inc/options.php:1068 inc/options.php:1695
+#: inc/options.php:2332 inc/options.php:2958 inc/options.php:3473
+#: inc/options.php:3977 inc/options.php:4459 inc/options.php:4974
+#: inc/options.php:5489 inc/options.php:6001 inc/options.php:6574
+#: inc/options.php:6999
+msgid "Extra top padding"
+msgstr ""
+
+#: inc/options.php:439 inc/options.php:1069 inc/options.php:1696
+#: inc/options.php:2333 inc/options.php:2959 inc/options.php:3474
+#: inc/options.php:3978 inc/options.php:4460 inc/options.php:4975
+#: inc/options.php:5490 inc/options.php:6002 inc/options.php:6575
+#: inc/options.php:7000
+msgid "Add extra space above the header."
+msgstr ""
+
+#: inc/options.php:452 inc/options.php:1082 inc/options.php:1709
+#: inc/options.php:2346 inc/options.php:2972 inc/options.php:3487
+#: inc/options.php:3991 inc/options.php:4473 inc/options.php:4988
+#: inc/options.php:5503 inc/options.php:6015 inc/options.php:6588
+#: inc/options.php:7013
+msgid "Extra side padding"
+msgstr ""
+
+#: inc/options.php:453 inc/options.php:1083 inc/options.php:1710
+#: inc/options.php:2347 inc/options.php:2973 inc/options.php:3488
+#: inc/options.php:3992 inc/options.php:4474 inc/options.php:4989
+#: inc/options.php:5504 inc/options.php:6016 inc/options.php:6589
+#: inc/options.php:7014
+msgid "Add extra space on the left and right side of the header."
+msgstr ""
+
+#: inc/options.php:459 inc/options.php:1089 inc/options.php:1716
+#: inc/options.php:2353 inc/options.php:2979 inc/options.php:3494
+#: inc/options.php:3998 inc/options.php:4480 inc/options.php:4995
+#: inc/options.php:5510 inc/options.php:6022 inc/options.php:6595
+#: inc/options.php:7020
+msgid "Header bottom border"
+msgstr ""
+
+#: inc/options.php:460 inc/options.php:1090 inc/options.php:1717
+#: inc/options.php:2354 inc/options.php:2980 inc/options.php:3495
+#: inc/options.php:3999 inc/options.php:4481 inc/options.php:4996
+#: inc/options.php:5511 inc/options.php:6023 inc/options.php:6596
+#: inc/options.php:7021
+msgid "Add horizontal border at the bottom of the header."
+msgstr ""
+
+#: inc/options.php:466 inc/options.php:1096 inc/options.php:1723
+#: inc/options.php:2360 inc/options.php:2986 inc/options.php:3501
+#: inc/options.php:4005 inc/options.php:4487 inc/options.php:5002
+#: inc/options.php:5517 inc/options.php:6029 inc/options.php:7337
+#: inc/options.php:7664 inc/options.php:7996
+msgid "Menu animation style"
+msgstr ""
+
+#: inc/options.php:468 inc/options.php:1098 inc/options.php:1725
+#: inc/options.php:2362 inc/options.php:2988 inc/options.php:3503
+#: inc/options.php:4007 inc/options.php:4489 inc/options.php:5004
+#: inc/options.php:5519 inc/options.php:6031
+msgid "Underline style 1"
+msgstr ""
+
+#: inc/options.php:469 inc/options.php:1099 inc/options.php:1726
+#: inc/options.php:2363 inc/options.php:2989 inc/options.php:3504
+#: inc/options.php:4008 inc/options.php:4490 inc/options.php:5005
+#: inc/options.php:5520 inc/options.php:6032
+msgid "Underline style 2"
+msgstr ""
+
+#: inc/options.php:470 inc/options.php:1100 inc/options.php:1727
+#: inc/options.php:2364 inc/options.php:2990 inc/options.php:3505
+#: inc/options.php:4009 inc/options.php:4491 inc/options.php:5006
+#: inc/options.php:5521 inc/options.php:6033
+msgid "Line below"
+msgstr ""
+
+#: inc/options.php:471 inc/options.php:1101 inc/options.php:1728
+#: inc/options.php:2365 inc/options.php:2991 inc/options.php:3506
+#: inc/options.php:4010 inc/options.php:4492 inc/options.php:5007
+#: inc/options.php:5522 inc/options.php:6034
+msgid "Line above"
+msgstr ""
+
+#: inc/options.php:472 inc/options.php:1102 inc/options.php:1729
+#: inc/options.php:2366 inc/options.php:2992 inc/options.php:3507
+#: inc/options.php:4011 inc/options.php:4493 inc/options.php:5008
+#: inc/options.php:5523 inc/options.php:6035
+msgid "Rectangle container"
+msgstr ""
+
+#: inc/options.php:473 inc/options.php:1103 inc/options.php:1730
+#: inc/options.php:2367 inc/options.php:2993 inc/options.php:3508
+#: inc/options.php:4012 inc/options.php:4494 inc/options.php:5009
+#: inc/options.php:5524 inc/options.php:6036
+msgid "Rounded container"
+msgstr ""
+
+#: inc/options.php:474 inc/options.php:1104 inc/options.php:1731
+#: inc/options.php:2368 inc/options.php:2994 inc/options.php:3509
+#: inc/options.php:4013 inc/options.php:4495 inc/options.php:5010
+#: inc/options.php:5525 inc/options.php:6037
+msgid "Skewed container"
+msgstr ""
+
+#: inc/options.php:475 inc/options.php:1105 inc/options.php:1732
+#: inc/options.php:2369 inc/options.php:2995 inc/options.php:3510
+#: inc/options.php:4014 inc/options.php:4496 inc/options.php:5011
+#: inc/options.php:5526 inc/options.php:6038
+msgid "Vertical line below"
+msgstr ""
+
+#: inc/options.php:476 inc/options.php:1106 inc/options.php:1733
+#: inc/options.php:2370 inc/options.php:2996 inc/options.php:3511
+#: inc/options.php:4015 inc/options.php:4497 inc/options.php:5012
+#: inc/options.php:5527 inc/options.php:6039
+msgid "Vertical line above"
+msgstr ""
+
+#: inc/options.php:477 inc/options.php:1107 inc/options.php:1734
+#: inc/options.php:2371 inc/options.php:2997 inc/options.php:3512
+#: inc/options.php:4016 inc/options.php:4498 inc/options.php:5013
+#: inc/options.php:5528 inc/options.php:6040 inc/options.php:7342
+#: inc/options.php:7669 inc/options.php:8001
+msgid "Filled background"
+msgstr ""
+
+#: inc/options.php:485 inc/options.php:1115 inc/options.php:1742
+#: inc/options.php:2379 inc/options.php:3005 inc/options.php:3520
+#: inc/options.php:4024 inc/options.php:4506 inc/options.php:5021
+#: inc/options.php:5536 inc/options.php:6048 inc/options.php:6603
+#: inc/options.php:7028 inc/options.php:7350 inc/options.php:7677
+#: inc/options.php:8009
+msgid "Mobile header breakpoint"
+msgstr ""
+
+#: inc/options.php:486 inc/options.php:1116 inc/options.php:1743
+#: inc/options.php:2380 inc/options.php:3006 inc/options.php:3521
+#: inc/options.php:4025 inc/options.php:4507 inc/options.php:5022
+#: inc/options.php:5537 inc/options.php:6049 inc/options.php:6604
+#: inc/options.php:7029 inc/options.php:7351 inc/options.php:7678
+#: inc/options.php:8010
+msgid ""
+"Switch to mobile header if the window is under this width/height. Units - "
+"<strong>px</strong>."
+msgstr ""
+
+#: inc/options.php:495 inc/options.php:1125 inc/options.php:1759
+#: inc/options.php:2396 inc/options.php:3022 inc/options.php:3537
+#: inc/options.php:4041 inc/options.php:4523 inc/options.php:5038
+#: inc/options.php:5553 inc/options.php:6065 inc/options.php:6613
+#: inc/options.php:7038 inc/options.php:7331 inc/options.php:7658
+#: inc/options.php:9229
+msgid "Header shadow"
+msgstr ""
+
+#: inc/options.php:497 inc/options.php:1127 inc/options.php:1761
+#: inc/options.php:2398 inc/options.php:3024 inc/options.php:3539
+#: inc/options.php:4043 inc/options.php:4525 inc/options.php:5040
+#: inc/options.php:5555 inc/options.php:6067 inc/options.php:6615
+#: inc/options.php:7040 inc/options.php:9231
+msgid "On default state"
+msgstr ""
+
+#: inc/options.php:498 inc/options.php:1128 inc/options.php:1762
+#: inc/options.php:2399 inc/options.php:3025 inc/options.php:3540
+#: inc/options.php:4044 inc/options.php:4526 inc/options.php:5041
+#: inc/options.php:5556 inc/options.php:6068 inc/options.php:6616
+#: inc/options.php:7041 inc/options.php:9232
+msgid "On sticky state"
+msgstr ""
+
+#: inc/options.php:499 inc/options.php:1129 inc/options.php:1763
+#: inc/options.php:2400 inc/options.php:3026 inc/options.php:3541
+#: inc/options.php:4045 inc/options.php:4527 inc/options.php:5042
+#: inc/options.php:5557 inc/options.php:6069 inc/options.php:6617
+#: inc/options.php:7042 inc/options.php:9233
+msgid "On default and sticky state"
+msgstr ""
+
+#: inc/options.php:514 inc/options.php:1144 inc/options.php:1778
+#: inc/options.php:2415 inc/options.php:3041 inc/options.php:3556
+#: inc/options.php:4060 inc/options.php:4542 inc/options.php:5057
+#: inc/options.php:5572 inc/options.php:6084 inc/options.php:6471
+#: inc/options.php:6896 inc/options.php:7367 inc/options.php:7694
+#: inc/options.php:8092 inc/options.php:8420
+msgid "Light style logo"
+msgstr ""
+
+#: inc/options.php:515 inc/options.php:1145 inc/options.php:1779
+#: inc/options.php:2416 inc/options.php:3042 inc/options.php:3557
+#: inc/options.php:4061 inc/options.php:4543 inc/options.php:5058
+#: inc/options.php:5573 inc/options.php:6085 inc/options.php:6472
+#: inc/options.php:6897 inc/options.php:7368 inc/options.php:7695
+msgid "Upload logo image file for light header style."
+msgstr ""
+
+#: inc/options.php:516 inc/options.php:524 inc/options.php:1146
+#: inc/options.php:1154 inc/options.php:1780 inc/options.php:1788
+#: inc/options.php:2417 inc/options.php:2425 inc/options.php:3043
+#: inc/options.php:3051 inc/options.php:3558 inc/options.php:3566
+#: inc/options.php:4062 inc/options.php:4070 inc/options.php:4544
+#: inc/options.php:4552 inc/options.php:5059 inc/options.php:5067
+#: inc/options.php:5574 inc/options.php:5582 inc/options.php:6086
+#: inc/options.php:6094 inc/options.php:6473 inc/options.php:6481
+#: inc/options.php:6898 inc/options.php:6906 inc/options.php:7369
+#: inc/options.php:7377 inc/options.php:7696 inc/options.php:7704
+#: inc/options.php:8060 inc/options.php:8094 inc/options.php:8102
+#: inc/options.php:8422 inc/options.php:8430 inc/options.php:9104
+msgid ""
+"Upload at least a @2x logo size image for proper display on high pixel "
+"density displays. Image will be resized on the frontend automatically."
+msgstr ""
+
+#: inc/options.php:522 inc/options.php:1152 inc/options.php:1786
+#: inc/options.php:2423 inc/options.php:3049 inc/options.php:3564
+#: inc/options.php:4068 inc/options.php:4550 inc/options.php:5065
+#: inc/options.php:5580 inc/options.php:6092 inc/options.php:6479
+#: inc/options.php:6904 inc/options.php:7375 inc/options.php:7702
+#: inc/options.php:8100 inc/options.php:8428
+msgid "Dark style logo"
+msgstr ""
+
+#: inc/options.php:523 inc/options.php:1153 inc/options.php:1787
+#: inc/options.php:2424 inc/options.php:3050 inc/options.php:3565
+#: inc/options.php:4069 inc/options.php:4551 inc/options.php:5066
+#: inc/options.php:5581 inc/options.php:6093 inc/options.php:6480
+#: inc/options.php:6905 inc/options.php:7376 inc/options.php:7703
+msgid "Upload logo image file for dark header style."
+msgstr ""
+
+#: inc/options.php:530 inc/options.php:1160 inc/options.php:1794
+#: inc/options.php:2431 inc/options.php:3057 inc/options.php:3572
+#: inc/options.php:4076 inc/options.php:4558 inc/options.php:5073
+#: inc/options.php:5588 inc/options.php:6100 inc/options.php:6487
+#: inc/options.php:6912 inc/options.php:7383 inc/options.php:7710
+#: inc/options.php:8066 inc/options.php:8108 inc/options.php:8436
+#: inc/options.php:9110
+msgid "Logo size"
+msgstr ""
+
+#: inc/options.php:532 inc/options.php:1162 inc/options.php:1796
+#: inc/options.php:2433 inc/options.php:3059 inc/options.php:3574
+#: inc/options.php:4078 inc/options.php:4560 inc/options.php:5075
+#: inc/options.php:5590 inc/options.php:6102 inc/options.php:6489
+#: inc/options.php:6914 inc/options.php:7385 inc/options.php:7712
+#: inc/options.php:8068 inc/options.php:8110 inc/options.php:8438
+#: inc/options.php:9112
+msgid "This field is mandatory. Logo will not be displayed if it's left empty."
+msgstr ""
+
+#: inc/options.php:537 inc/options.php:1167 inc/options.php:1801
+#: inc/options.php:2438 inc/options.php:3064 inc/options.php:3579
+#: inc/options.php:4083 inc/options.php:4565 inc/options.php:5080
+#: inc/options.php:5595 inc/options.php:6107 inc/options.php:6494
+#: inc/options.php:6919 inc/options.php:7390 inc/options.php:7717
+#: inc/options.php:8073 inc/options.php:8115 inc/options.php:8443
+#: inc/options.php:9117
+msgid "Logo top offset"
+msgstr ""
+
+#: inc/options.php:543 inc/options.php:1173 inc/options.php:1807
+#: inc/options.php:2444 inc/options.php:3070 inc/options.php:3585
+#: inc/options.php:4089 inc/options.php:4571 inc/options.php:5086
+#: inc/options.php:5601 inc/options.php:6113 inc/options.php:6500
+#: inc/options.php:6925 inc/options.php:7396 inc/options.php:7723
+#: inc/options.php:8079 inc/options.php:8121 inc/options.php:8449
+#: inc/options.php:9123
+msgid "Logo left offset"
+msgstr ""
+
+#: inc/options.php:549 inc/options.php:1179 inc/options.php:1813
+#: inc/options.php:2450 inc/options.php:3076 inc/options.php:3591
+#: inc/options.php:4095 inc/options.php:4577 inc/options.php:5092
+#: inc/options.php:5607 inc/options.php:6119 inc/options.php:6506
+#: inc/options.php:6931 inc/options.php:7402 inc/options.php:7729
+#: inc/options.php:8019 inc/options.php:8898 inc/options.php:9794
+#: inc/options.php:12454
+msgid "Typography"
+msgstr ""
+
+#: inc/options.php:555 inc/options.php:1185 inc/options.php:1819
+#: inc/options.php:2456 inc/options.php:3082 inc/options.php:3597
+#: inc/options.php:4101 inc/options.php:4583 inc/options.php:5098
+#: inc/options.php:5613 inc/options.php:6125
+msgid "Header font style"
+msgstr ""
+
+#: inc/options.php:556 inc/options.php:1186 inc/options.php:1820
+#: inc/options.php:2457 inc/options.php:3083 inc/options.php:3598
+#: inc/options.php:4102 inc/options.php:4584 inc/options.php:5099
+#: inc/options.php:5614 inc/options.php:6126
+msgid "Specify font properties for the header elements."
+msgstr ""
+
+#: inc/options.php:562 inc/options.php:1192 inc/options.php:1826
+#: inc/options.php:2463 inc/options.php:3089 inc/options.php:3604
+#: inc/options.php:4108 inc/options.php:4590 inc/options.php:5105
+#: inc/options.php:5620 inc/options.php:6132 inc/options.php:7420
+#: inc/options.php:7747 inc/options.php:8037
+msgid "Header menu icon size"
+msgstr ""
+
+#: inc/options.php:563 inc/options.php:1193 inc/options.php:1827
+#: inc/options.php:2464 inc/options.php:3090 inc/options.php:3605
+#: inc/options.php:4109 inc/options.php:4591 inc/options.php:5106
+#: inc/options.php:5621 inc/options.php:6133 inc/options.php:7421
+#: inc/options.php:7748 inc/options.php:8038
+msgid "Specify size of the icons which are displayed next to menu items in header."
+msgstr ""
+
+#: inc/options.php:576 inc/options.php:1206 inc/options.php:1840
+#: inc/options.php:2477 inc/options.php:3103 inc/options.php:3618
+#: inc/options.php:4604 inc/options.php:5119 inc/options.php:5634
+#: inc/options.php:6146
+msgid "Top bar font style"
+msgstr ""
+
+#: inc/options.php:577 inc/options.php:1207 inc/options.php:1841
+#: inc/options.php:2478 inc/options.php:3104 inc/options.php:3619
+#: inc/options.php:4605 inc/options.php:5120 inc/options.php:5635
+#: inc/options.php:6147
+msgid "Specify font properties for the top bar elements."
+msgstr ""
+
+#: inc/options.php:583 inc/options.php:1213 inc/options.php:1847
+#: inc/options.php:2484
+msgid "Bottom bar font style"
+msgstr ""
+
+#: inc/options.php:584 inc/options.php:1214 inc/options.php:1848
+#: inc/options.php:2485
+msgid "Specify font properties for the bottom bar elements."
+msgstr ""
+
+#: inc/options.php:590 inc/options.php:1220 inc/options.php:1854
+#: inc/options.php:2491 inc/options.php:3110 inc/options.php:3625
+#: inc/options.php:4122 inc/options.php:4611 inc/options.php:5126
+#: inc/options.php:5641 inc/options.php:6153 inc/options.php:7434
+#: inc/options.php:7761 inc/options.php:8455 inc/options.php:13042
+msgid "Light skin"
+msgstr ""
+
+#: inc/options.php:596 inc/options.php:771 inc/options.php:1226
+#: inc/options.php:1401 inc/options.php:1860 inc/options.php:2035
+#: inc/options.php:2497 inc/options.php:2672 inc/options.php:3116
+#: inc/options.php:3239 inc/options.php:3631 inc/options.php:3754
+#: inc/options.php:4128 inc/options.php:4238 inc/options.php:4617
+#: inc/options.php:4740 inc/options.php:5132 inc/options.php:5255
+#: inc/options.php:5647 inc/options.php:5767 inc/options.php:6159
+#: inc/options.php:6282 inc/options.php:6631 inc/options.php:6702
+#: inc/options.php:6773 inc/options.php:7056 inc/options.php:7127
+#: inc/options.php:7198 inc/options.php:7440 inc/options.php:7511
+#: inc/options.php:7767 inc/options.php:7838 inc/options.php:8246
+#: inc/options.php:8461 inc/options.php:8636 inc/options.php:9168
+msgid "Header background color"
+msgstr ""
+
+#: inc/options.php:609 inc/options.php:784 inc/options.php:1239
+#: inc/options.php:1414 inc/options.php:1873 inc/options.php:2048
+#: inc/options.php:2510 inc/options.php:2685 inc/options.php:3129
+#: inc/options.php:3252 inc/options.php:3644 inc/options.php:3767
+#: inc/options.php:4141 inc/options.php:4251 inc/options.php:4630
+#: inc/options.php:4753 inc/options.php:5145 inc/options.php:5268
+#: inc/options.php:5660 inc/options.php:5780 inc/options.php:6172
+#: inc/options.php:6295 inc/options.php:6644 inc/options.php:6715
+#: inc/options.php:7069 inc/options.php:7140 inc/options.php:7453
+#: inc/options.php:7524 inc/options.php:7780 inc/options.php:7851
+#: inc/options.php:8259 inc/options.php:8474 inc/options.php:8649
+#: inc/options.php:9210 inc/options.php:12619
+msgid "Border color"
+msgstr ""
+
+#: inc/options.php:622 inc/options.php:797 inc/options.php:1252
+#: inc/options.php:1427 inc/options.php:1886 inc/options.php:2061
+#: inc/options.php:2523 inc/options.php:2698 inc/options.php:3142
+#: inc/options.php:3265 inc/options.php:3657 inc/options.php:3780
+#: inc/options.php:4154 inc/options.php:4264 inc/options.php:4643
+#: inc/options.php:4766 inc/options.php:5158 inc/options.php:5281
+#: inc/options.php:5673 inc/options.php:5793 inc/options.php:6185
+#: inc/options.php:6308 inc/options.php:6657 inc/options.php:6728
+#: inc/options.php:7082 inc/options.php:7153 inc/options.php:7466
+#: inc/options.php:7537 inc/options.php:7793 inc/options.php:7864
+#: inc/options.php:8272 inc/options.php:8487 inc/options.php:8662
+msgid "Header text color"
+msgstr ""
+
+#: inc/options.php:635 inc/options.php:810 inc/options.php:1265
+#: inc/options.php:1440 inc/options.php:1899 inc/options.php:2074
+#: inc/options.php:2536 inc/options.php:2711 inc/options.php:3155
+#: inc/options.php:3278 inc/options.php:3670 inc/options.php:3793
+#: inc/options.php:4167 inc/options.php:4277 inc/options.php:4656
+#: inc/options.php:4779 inc/options.php:5171 inc/options.php:5294
+#: inc/options.php:5683 inc/options.php:5806 inc/options.php:6198
+#: inc/options.php:6321 inc/options.php:6670 inc/options.php:6741
+#: inc/options.php:7095 inc/options.php:7166 inc/options.php:7479
+#: inc/options.php:7550 inc/options.php:7806 inc/options.php:7877
+#: inc/options.php:8285 inc/options.php:8500 inc/options.php:8675
+msgid "Header text hover/active color"
+msgstr ""
+
+#: inc/options.php:648 inc/options.php:823 inc/options.php:1278
+#: inc/options.php:1453 inc/options.php:1912 inc/options.php:2087
+#: inc/options.php:2549 inc/options.php:2724 inc/options.php:3168
+#: inc/options.php:3291 inc/options.php:3683 inc/options.php:3806
+#: inc/options.php:4180 inc/options.php:4290 inc/options.php:4669
+#: inc/options.php:4792 inc/options.php:5184 inc/options.php:5307
+#: inc/options.php:5696 inc/options.php:5819 inc/options.php:6211
+#: inc/options.php:6334 inc/options.php:6683 inc/options.php:6754
+#: inc/options.php:7108 inc/options.php:7179 inc/options.php:7492
+#: inc/options.php:7563 inc/options.php:7819 inc/options.php:7890
+#: inc/options.php:8298 inc/options.php:8513 inc/options.php:8688
+msgid "Header text & icons accent color"
+msgstr ""
+
+#: inc/options.php:661 inc/options.php:836 inc/options.php:1291
+#: inc/options.php:1466 inc/options.php:1925 inc/options.php:2100
+#: inc/options.php:2562 inc/options.php:2737 inc/options.php:3181
+#: inc/options.php:3304 inc/options.php:3696 inc/options.php:3819
+#: inc/options.php:4682 inc/options.php:4805 inc/options.php:5197
+#: inc/options.php:5320 inc/options.php:5709 inc/options.php:5832
+#: inc/options.php:6224 inc/options.php:6347 inc/options.php:8526
+#: inc/options.php:8701
+msgid "Top bar background color"
+msgstr ""
+
+#: inc/options.php:674 inc/options.php:849 inc/options.php:1304
+#: inc/options.php:1479 inc/options.php:1938 inc/options.php:2113
+#: inc/options.php:2575 inc/options.php:2750 inc/options.php:3194
+#: inc/options.php:3317 inc/options.php:3709 inc/options.php:3832
+#: inc/options.php:4695 inc/options.php:4818 inc/options.php:5210
+#: inc/options.php:5333 inc/options.php:5722 inc/options.php:5845
+#: inc/options.php:6237 inc/options.php:6360 inc/options.php:8539
+#: inc/options.php:8714
+msgid "Top bar text color"
+msgstr ""
+
+#: inc/options.php:687 inc/options.php:862 inc/options.php:1317
+#: inc/options.php:1489 inc/options.php:1951 inc/options.php:2126
+#: inc/options.php:2588 inc/options.php:2763 inc/options.php:3207
+#: inc/options.php:3330 inc/options.php:3722 inc/options.php:3845
+#: inc/options.php:4708 inc/options.php:4831 inc/options.php:5223
+#: inc/options.php:5346 inc/options.php:5735 inc/options.php:5858
+#: inc/options.php:6250 inc/options.php:6373 inc/options.php:8552
+#: inc/options.php:8727
+msgid "Top bar text hover/active color"
+msgstr ""
+
+#: inc/options.php:700
+msgid "Top bar elements active color"
+msgstr ""
+
+#: inc/options.php:713 inc/options.php:888 inc/options.php:1343
+#: inc/options.php:1515 inc/options.php:1977 inc/options.php:2152
+#: inc/options.php:2614 inc/options.php:2789 inc/options.php:8578
+#: inc/options.php:8753
+msgid "Bottom bar background color"
+msgstr ""
+
+#: inc/options.php:726 inc/options.php:901 inc/options.php:1356
+#: inc/options.php:1528 inc/options.php:1990 inc/options.php:2165
+#: inc/options.php:2627 inc/options.php:2802 inc/options.php:8591
+#: inc/options.php:8766
+msgid "Bottom bar text color"
+msgstr ""
+
+#: inc/options.php:739 inc/options.php:914 inc/options.php:1369
+#: inc/options.php:1541 inc/options.php:2003 inc/options.php:2178
+#: inc/options.php:2640 inc/options.php:2815 inc/options.php:8604
+#: inc/options.php:8779
+msgid "Bottom bar text hover/active color"
+msgstr ""
+
+#: inc/options.php:752 inc/options.php:927 inc/options.php:1382
+#: inc/options.php:1554 inc/options.php:2016 inc/options.php:2191
+#: inc/options.php:2653 inc/options.php:2828 inc/options.php:8617
+#: inc/options.php:8792
+msgid "Bottom bar elements accent color"
+msgstr ""
+
+#: inc/options.php:765 inc/options.php:1395 inc/options.php:2029
+#: inc/options.php:2666 inc/options.php:3233 inc/options.php:3748
+#: inc/options.php:4232 inc/options.php:4734 inc/options.php:5249
+#: inc/options.php:5761 inc/options.php:6276 inc/options.php:7505
+#: inc/options.php:7832 inc/options.php:8630 inc/options.php:13061
+msgid "Dark skin"
+msgstr ""
+
+#: inc/options.php:875 inc/options.php:1330 inc/options.php:1502
+#: inc/options.php:1964 inc/options.php:2139 inc/options.php:2601
+#: inc/options.php:2776 inc/options.php:3220 inc/options.php:3343
+#: inc/options.php:3735 inc/options.php:3858 inc/options.php:4721
+#: inc/options.php:4844 inc/options.php:5236 inc/options.php:5359
+#: inc/options.php:5748 inc/options.php:5871 inc/options.php:6263
+#: inc/options.php:6386 inc/options.php:8565 inc/options.php:8740
+msgid "Top bar elements accent color"
+msgstr ""
+
+#: inc/options.php:940 inc/options.php:1567 inc/options.php:2204
+#: inc/options.php:2841 inc/options.php:3356 inc/options.php:3871
+#: inc/options.php:4342 inc/options.php:4857 inc/options.php:5372
+#: inc/options.php:5884 inc/options.php:6399 inc/options.php:6824
+#: inc/options.php:7249 inc/options.php:7576 inc/options.php:7903
+#: inc/options.php:8324 inc/options.php:9317 inc/options.php:11637
+#: inc/options.php:12656 inc/options.php:12716
+msgid "Components"
+msgstr ""
+
+#: inc/options.php:946 inc/options.php:1573 inc/options.php:1752
+#: inc/options.php:2210 inc/options.php:2389 inc/options.php:2847
+#: inc/options.php:3015 inc/options.php:3362 inc/options.php:3530
+#: inc/options.php:3877 inc/options.php:4034 inc/options.php:4348
+#: inc/options.php:4516 inc/options.php:4863 inc/options.php:5031
+#: inc/options.php:5378 inc/options.php:5546 inc/options.php:5890
+#: inc/options.php:6058 inc/options.php:6405 inc/options.php:6830
+#: inc/options.php:7255 inc/options.php:7582 inc/options.php:7909
+#: inc/options.php:8330 inc/options.php:9323
+msgid "Text info element content"
+msgstr ""
+
+#: inc/options.php:947 inc/options.php:1574 inc/options.php:1753
+#: inc/options.php:2211 inc/options.php:2390 inc/options.php:2848
+#: inc/options.php:3016 inc/options.php:3363 inc/options.php:3531
+#: inc/options.php:3878 inc/options.php:4035 inc/options.php:4349
+#: inc/options.php:4517 inc/options.php:4864 inc/options.php:5032
+#: inc/options.php:5379 inc/options.php:5547 inc/options.php:5891
+#: inc/options.php:6059 inc/options.php:6406 inc/options.php:6831
+#: inc/options.php:7256 inc/options.php:7583 inc/options.php:7910
+#: inc/options.php:8331 inc/options.php:9324
+msgid "Content of the <strong>Text info</strong> element."
+msgstr ""
+
+#: inc/options.php:953 inc/options.php:1580 inc/options.php:2217
+#: inc/options.php:2854 inc/options.php:3369 inc/options.php:3884
+#: inc/options.php:4355 inc/options.php:4870 inc/options.php:5385
+#: inc/options.php:5897 inc/options.php:6412 inc/options.php:6837
+#: inc/options.php:7262 inc/options.php:7589 inc/options.php:7916
+#: inc/options.php:8337 inc/options.php:9330
+msgid "Primary button text"
+msgstr ""
+
+#: inc/options.php:959 inc/options.php:1586 inc/options.php:2223
+#: inc/options.php:2860 inc/options.php:3375 inc/options.php:3890
+#: inc/options.php:4361 inc/options.php:4876 inc/options.php:5391
+#: inc/options.php:5903 inc/options.php:6418 inc/options.php:6843
+#: inc/options.php:7268 inc/options.php:7595 inc/options.php:7922
+#: inc/options.php:8343 inc/options.php:9336
+msgid "Primary button link"
+msgstr ""
+
+#: inc/options.php:964 inc/options.php:1591 inc/options.php:2228
+#: inc/options.php:2865 inc/options.php:3380 inc/options.php:3895
+#: inc/options.php:4366 inc/options.php:4881 inc/options.php:5396
+#: inc/options.php:5908 inc/options.php:6423 inc/options.php:6848
+#: inc/options.php:7273 inc/options.php:7600 inc/options.php:7927
+#: inc/options.php:8348 inc/options.php:9341
+msgid "Secondary button text"
+msgstr ""
+
+#: inc/options.php:970 inc/options.php:1597 inc/options.php:2234
+#: inc/options.php:2871 inc/options.php:3386 inc/options.php:3901
+#: inc/options.php:4372 inc/options.php:4887 inc/options.php:5402
+#: inc/options.php:5914 inc/options.php:6429 inc/options.php:6854
+#: inc/options.php:7279 inc/options.php:7606 inc/options.php:7933
+#: inc/options.php:8354 inc/options.php:9347
+msgid "Secondary button link"
+msgstr ""
+
+#: inc/options.php:981 inc/options.php:1608 inc/options.php:2245
+#: inc/options.php:2882 inc/options.php:3397 inc/options.php:3912
+#: inc/options.php:4383 inc/options.php:4898 inc/options.php:5413
+#: inc/options.php:5925 inc/options.php:6440 inc/options.php:6865
+#: inc/options.php:7290 inc/options.php:7617 inc/options.php:7944
+#: inc/options.php:8365 inc/options.php:9358
+msgid "Choose a content block to insert into the \"Content Block\" component."
+msgstr ""
+
+#: inc/options.php:988
+msgid "Header style 1 (alt)"
+msgstr ""
+
+#: inc/options.php:1615
+msgid "Header style 2"
+msgstr ""
+
+#: inc/options.php:1661 inc/options.php:2298
+msgid "Header top bar height"
+msgstr ""
+
+#: inc/options.php:2252
+msgid "Header style 2 (alt)"
+msgstr ""
+
+#: inc/options.php:2889
+msgid "Header style 3"
+msgstr ""
+
+#: inc/options.php:3404
+msgid "Header style 3 (alt)"
+msgstr ""
+
+#: inc/options.php:3919
+msgid "Header style 4"
+msgstr ""
+
+#: inc/options.php:4193 inc/options.php:4303
+msgid "Color of elements in the visible area"
+msgstr ""
+
+#: inc/options.php:4206 inc/options.php:4316
+msgid "Hover color of elements in the visible area"
+msgstr ""
+
+#: inc/options.php:4219 inc/options.php:4329
+msgid "Active color of elements in the visible area"
+msgstr ""
+
+#: inc/options.php:4390
+msgid "Header style 5"
+msgstr ""
+
+#: inc/options.php:4905
+msgid "Header style 5 (alt)"
+msgstr ""
+
+#: inc/options.php:5420
+msgid "Header style 6"
+msgstr ""
+
+#: inc/options.php:5932
+msgid "Header style 6 (alt)"
+msgstr ""
+
+#: inc/options.php:6447
+msgid "Header style 7"
+msgstr ""
+
+#: inc/options.php:6512 inc/options.php:6937
+msgid "Idle header font style"
+msgstr ""
+
+#: inc/options.php:6518 inc/options.php:6943
+msgid "Overlay top section font style"
+msgstr ""
+
+#: inc/options.php:6523 inc/options.php:6948
+msgid "Overlay middle section font style"
+msgstr ""
+
+#: inc/options.php:6528 inc/options.php:6953
+msgid "Overlay footer font style"
+msgstr ""
+
+#: inc/options.php:6533 inc/options.php:6958
+msgid "Idle header settings"
+msgstr ""
+
+#: inc/options.php:6625 inc/options.php:7050
+msgid "Idle header - light skin"
+msgstr ""
+
+#: inc/options.php:6696 inc/options.php:7121
+msgid "Idle header - dark skin"
+msgstr ""
+
+#: inc/options.php:6767 inc/options.php:7192
+msgid "Overlay layer settings"
+msgstr ""
+
+#: inc/options.php:6786 inc/options.php:7211 inc/options.php:12110
+#: inc/options.php:12191 inc/options.php:12290 inc/options.php:12374
+msgid "Text color"
+msgstr ""
+
+#: inc/options.php:6798 inc/options.php:7223
+msgid "Text hover color"
+msgstr ""
+
+#: inc/options.php:6811 inc/options.php:7236
+msgid "Text accent color"
+msgstr ""
+
+#: inc/options.php:6872
+msgid "Header style 8"
+msgstr ""
+
+#: inc/options.php:7297
+msgid "Header style 9"
+msgstr ""
+
+#: inc/options.php:7320 inc/options.php:7647 inc/options.php:7974
+msgid "Header width"
+msgstr ""
+
+#: inc/options.php:7339 inc/options.php:7666 inc/options.php:7998
+msgid "Left border"
+msgstr ""
+
+#: inc/options.php:7340 inc/options.php:7667 inc/options.php:7999
+msgid "Left line"
+msgstr ""
+
+#: inc/options.php:7341 inc/options.php:7668 inc/options.php:8000
+msgid "Left dot"
+msgstr ""
+
+#: inc/options.php:7408 inc/options.php:7735 inc/options.php:8025
+msgid "Header main section font"
+msgstr ""
+
+#: inc/options.php:7409 inc/options.php:7736 inc/options.php:8026
+msgid "Specify font properties for the header main section elements."
+msgstr ""
+
+#: inc/options.php:7414 inc/options.php:7741 inc/options.php:8031
+msgid "Header footer section font"
+msgstr ""
+
+#: inc/options.php:7415 inc/options.php:7742 inc/options.php:8032
+msgid "Specify font properties for the header footer section elements."
+msgstr ""
+
+#: inc/options.php:7624
+msgid "Header style 10"
+msgstr ""
+
+#: inc/options.php:7951
+msgid "Header style 11"
+msgstr ""
+
+#: inc/options.php:7985
+msgid "Header trigger bar width"
+msgstr ""
+
+#: inc/options.php:8059
+msgid "Upload logo image file for header."
+msgstr ""
+
+#: inc/options.php:8085
+msgid "Trigger logo"
+msgstr ""
+
+#: inc/options.php:8093
+msgid "Upload logo image file for light trigger skin."
+msgstr ""
+
+#: inc/options.php:8101
+msgid "Upload logo image file for dark trigger skin."
+msgstr ""
+
+#: inc/options.php:8127
+msgid "Trigger - light skin"
+msgstr ""
+
+#: inc/options.php:8133 inc/options.php:8189
+msgid "Trigger bar background color"
+msgstr ""
+
+#: inc/options.php:8145 inc/options.php:8202
+msgid "Trigger bar background hover color"
+msgstr ""
+
+#: inc/options.php:8157 inc/options.php:8214
+msgid "Trigger button color"
+msgstr ""
+
+#: inc/options.php:8170 inc/options.php:8227
+msgid "Trigger button hover color"
+msgstr ""
+
+#: inc/options.php:8183
+msgid "Trigger - dark skin"
+msgstr ""
+
+#: inc/options.php:8240
+msgid "Header colors"
+msgstr ""
+
+#: inc/options.php:8311
+msgid "Backdrop color"
+msgstr ""
+
+#: inc/options.php:8373
+msgid "Sticky header"
+msgstr ""
+
+#: inc/options.php:8377
+msgid "Set the look of sticky header"
+msgstr ""
+
+#: inc/options.php:8388
+msgid "Sticky header main section height"
+msgstr ""
+
+#: inc/options.php:8399
+msgid "Show top bar in sticky header"
+msgstr ""
+
+#: inc/options.php:8400
+msgid "Will only be shown if top bar is enabled for the header."
+msgstr ""
+
+#: inc/options.php:8406
+msgid "Show bottom bar in sticky header"
+msgstr ""
+
+#: inc/options.php:8407
+msgid "Will only be shown if bottom bar is enabled for the header."
+msgstr ""
+
+#: inc/options.php:8421
+msgid "Upload logo image file for light sticky header style."
+msgstr ""
+
+#: inc/options.php:8429
+msgid "Upload logo image file for dark sticky header style."
+msgstr ""
+
+#: inc/options.php:8806
+msgid "Submenu"
+msgstr ""
+
+#: inc/options.php:8814 inc/options.php:12570
+msgid "Colors"
+msgstr ""
+
+#: inc/options.php:8820
+msgid "Submenu background color"
+msgstr ""
+
+#: inc/options.php:8833
+msgid "Submenu link color"
+msgstr ""
+
+#: inc/options.php:8846
+msgid "Submenu link hover color"
+msgstr ""
+
+#: inc/options.php:8859
+msgid "Submenu link active color"
+msgstr ""
+
+#: inc/options.php:8872
+msgid "Submenu link hover background color"
+msgstr ""
+
+#: inc/options.php:8885
+msgid "Megamenu column heading color"
+msgstr ""
+
+#: inc/options.php:8904
+msgid "Submenu link font"
+msgstr ""
+
+#: inc/options.php:8905
+msgid "Specify font properties for the submenu link."
+msgstr ""
+
+#: inc/options.php:8910
+msgid "Megamenu column heading font"
+msgstr ""
+
+#: inc/options.php:8911
+msgid "Specify font properties for the megamenu heading."
+msgstr ""
+
+#: inc/options.php:8918
+msgid "Header overlay panel"
+msgstr ""
+
+#: inc/options.php:8922
+msgid "Set the look of header overlay"
+msgstr ""
+
+#: inc/options.php:8927 inc/options.php:8984 inc/options.php:9269
+#: inc/options.php:12132 inc/options.php:12213 inc/options.php:12312
+#: inc/options.php:12396
+msgid "Background color"
+msgstr ""
+
+#: inc/options.php:8940 inc/options.php:8997 inc/options.php:9258
+msgid "Color skin"
+msgstr ""
+
+#: inc/options.php:8941 inc/options.php:8998 inc/options.php:9259
+msgid "Based on the background color."
+msgstr ""
+
+#: inc/options.php:8943 inc/options.php:9000 inc/options.php:9051
+#: inc/options.php:9261 inc/options.php:9475 inc/options.php:9496
+#: inc/options.php:9786 inc/options.php:9825 inc/options.php:10012
+#: inc/options.php:10098 inc/options.php:10441 inc/options.php:10485
+#: inc/options.php:10668 inc/options.php:10985 inc/options.php:11029
+#: inc/options.php:11285 inc/options.php:11560 inc/options.php:13266
+#: inc/options.php:13287 inc/options.php:13534 inc/options.php:13578
+#: inc/options.php:13745 inc/options.php:13828 inc/options.php:13889
+msgid "Light"
+msgstr ""
+
+#: inc/options.php:8944 inc/options.php:9001 inc/options.php:9052
+#: inc/options.php:9262 inc/options.php:9476 inc/options.php:9497
+#: inc/options.php:9787 inc/options.php:9826 inc/options.php:10013
+#: inc/options.php:10099 inc/options.php:10442 inc/options.php:10486
+#: inc/options.php:10669 inc/options.php:10986 inc/options.php:11030
+#: inc/options.php:11286 inc/options.php:11561 inc/options.php:13267
+#: inc/options.php:13288 inc/options.php:13535 inc/options.php:13579
+#: inc/options.php:13746 inc/options.php:13829 inc/options.php:13890
+msgid "Dark"
+msgstr ""
+
+#: inc/options.php:8957 inc/options.php:9014
+msgid "Choose a content block to insert into the header overlay panel."
+msgstr ""
+
+#: inc/options.php:8964
+msgid "Side area panel"
+msgstr ""
+
+#: inc/options.php:8968
+msgid "Set the look of header sidearea panel"
+msgstr ""
+
+#: inc/options.php:8973
+msgid "Side area width"
+msgstr ""
+
+#: inc/options.php:8974
+msgid "Set the width of the side area. Units - <strong>px</strong>."
+msgstr ""
+
+#: inc/options.php:9020
+msgid "Search panel"
+msgstr ""
+
+#: inc/options.php:9021
+msgid "Offscreen search overlay panel."
+msgstr ""
+
+#: inc/options.php:9029 inc/options.php:11892
+msgid "Post types displayed in search form dropdown"
+msgstr ""
+
+#: inc/options.php:9030 inc/options.php:11893
+msgid "Uncheck all to disable dropdown."
+msgstr ""
+
+#: inc/options.php:9036
+msgid "Panel background color"
+msgstr ""
+
+#: inc/options.php:9049
+msgid "Panel color skin"
+msgstr ""
+
+#: inc/options.php:9065 inc/options.php:11938
+msgid "Choose a content block to insert below the search field."
+msgstr ""
+
+#: inc/options.php:9071
+msgid "Content block display breakpoint"
+msgstr ""
+
+#: inc/options.php:9072
+msgid "Hide content block under this screen width or height."
+msgstr ""
+
+#: inc/options.php:9078
+msgid "Mobile navigation"
+msgstr ""
+
+#: inc/options.php:9082
+msgid "Set the look of main mobile navigation"
+msgstr ""
+
+#: inc/options.php:9102
+msgid "Logo file"
+msgstr ""
+
+#: inc/options.php:9103
+msgid "Upload logo image file for the mobile top header."
+msgstr ""
+
+#: inc/options.php:9135
+msgid "Sticky mobile header style"
+msgstr ""
+
+#: inc/options.php:9137 inc/options.php:9485 inc/options.php:13276
+msgid "Disabled"
+msgstr ""
+
+#: inc/options.php:9138 inc/options.php:9388 inc/options.php:9486
+#: inc/options.php:9521 inc/options.php:10075 inc/options.php:10199
+#: inc/options.php:11924 inc/options.php:13179 inc/options.php:13277
+#: inc/options.php:13311 inc/options.php:13811
+msgid "Default"
+msgstr ""
+
+#: inc/options.php:9139 inc/options.php:9487 inc/options.php:13278
+msgid "On scroll up"
+msgstr ""
+
+#: inc/options.php:9157
+msgid "Header height"
+msgstr ""
+
+#: inc/options.php:9158
+msgid "Set the height of the header. Units - <strong>px</strong>."
+msgstr ""
+
+#: inc/options.php:9169 inc/options.php:9270
+msgid "Specify background color of the top header."
+msgstr ""
+
+#: inc/options.php:9182 inc/options.php:9283
+msgid "Header text & icons color"
+msgstr ""
+
+#: inc/options.php:9183 inc/options.php:9284
+msgid "Specify color of the header text and icons."
+msgstr ""
+
+#: inc/options.php:9196
+msgid "Header elements accent color"
+msgstr ""
+
+#: inc/options.php:9197
+msgid "Specify  active color of the header text and icons."
+msgstr ""
+
+#: inc/options.php:9223
+msgid "Header font"
+msgstr ""
+
+#: inc/options.php:9224
+msgid "Specify font properties for the top mobile header font."
+msgstr ""
+
+#: inc/options.php:9247
+msgid "Width of side navigation"
+msgstr ""
+
+#: inc/options.php:9248
+msgid "Set width of the side navigation. Units - <strong>px</strong>."
+msgstr ""
+
+#: inc/options.php:9297
+msgid "Active menu items highlight color"
+msgstr ""
+
+#: inc/options.php:9298
+msgid "Specify active color of the header text and icons."
+msgstr ""
+
+#: inc/options.php:9311
+msgid "Side navigation font"
+msgstr ""
+
+#: inc/options.php:9312
+msgid "Specify font properties for the side navigation font."
+msgstr ""
+
+#: inc/options.php:9365
+msgid "Page settings"
+msgstr ""
+
+#: inc/options.php:9371 inc/options.php:13144
+msgid "Header navigation"
+msgstr ""
+
+#: inc/options.php:9372
+msgid "Global header options."
+msgstr ""
+
+#: inc/options.php:9380 inc/options.php:13166
+msgid "Header style"
+msgstr ""
+
+#: inc/options.php:9383 inc/options.php:9384 inc/options.php:13174
+#: inc/options.php:13175
+msgid "No header"
+msgstr ""
+
+#: inc/options.php:9389 inc/options.php:13180
+msgid "Style 1"
+msgstr ""
+
+#: inc/options.php:9393 inc/options.php:13184
+msgid "Default - transparent"
+msgstr ""
+
+#: inc/options.php:9394 inc/options.php:13185
+msgid "Style 1 (alt)"
+msgstr ""
+
+#: inc/options.php:9398 inc/options.php:13189
+msgid "Menu bottom"
+msgstr ""
+
+#: inc/options.php:9399 inc/options.php:13190
+msgid "Style 2"
+msgstr ""
+
+#: inc/options.php:9403 inc/options.php:13194
+msgid "Menu bottom - transparent"
+msgstr ""
+
+#: inc/options.php:9404 inc/options.php:13195
+msgid "Style 2 (alt)"
+msgstr ""
+
+#: inc/options.php:9408 inc/options.php:13199
+msgid "Logo in center"
+msgstr ""
+
+#: inc/options.php:9409 inc/options.php:13200
+msgid "Style 3"
+msgstr ""
+
+#: inc/options.php:9413 inc/options.php:13204
+msgid "Logo in center - transparent"
+msgstr ""
+
+#: inc/options.php:9414 inc/options.php:13205
+msgid "Style 3 (alt)"
+msgstr ""
+
+#: inc/options.php:9418 inc/options.php:13209
+msgid "Slide in from top"
+msgstr ""
+
+#: inc/options.php:9419 inc/options.php:13210
+msgid "Style 4"
+msgstr ""
+
+#: inc/options.php:9423 inc/options.php:13214
+msgid "Menu centered"
+msgstr ""
+
+#: inc/options.php:9424 inc/options.php:13215
+msgid "Style 5"
+msgstr ""
+
+#: inc/options.php:9428 inc/options.php:13219
+msgid "Menu centered - transparent"
+msgstr ""
+
+#: inc/options.php:9429 inc/options.php:13220
+msgid "Style 5 (alt)"
+msgstr ""
+
+#: inc/options.php:9433 inc/options.php:13224
+msgid "Logo and menu centered"
+msgstr ""
+
+#: inc/options.php:9434 inc/options.php:13225
+msgid "Style 6"
+msgstr ""
+
+#: inc/options.php:9438 inc/options.php:13229
+msgid "Logo and menu centered - transparent"
+msgstr ""
+
+#: inc/options.php:9439 inc/options.php:13230
+msgid "Style 6 (alt)"
+msgstr ""
+
+#: inc/options.php:9443 inc/options.php:13234
+msgid "Overlay - centered button"
+msgstr ""
+
+#: inc/options.php:9444 inc/options.php:13235
+msgid "Style 7"
+msgstr ""
+
+#: inc/options.php:9448 inc/options.php:13239
+msgid "Overlay - right-aligned button"
+msgstr ""
+
+#: inc/options.php:9449 inc/options.php:13240
+msgid "Style 8"
+msgstr ""
+
+#: inc/options.php:9453 inc/options.php:13244
+msgid "Left centered"
+msgstr ""
+
+#: inc/options.php:9454 inc/options.php:13245
+msgid "Style 9"
+msgstr ""
+
+#: inc/options.php:9458 inc/options.php:11114 inc/options.php:11115
+#: inc/options.php:11424 inc/options.php:11656 inc/options.php:13249
+msgid "Left"
+msgstr ""
+
+#: inc/options.php:9459 inc/options.php:13250
+msgid "Style 10"
+msgstr ""
+
+#: inc/options.php:9463 inc/options.php:13254
+msgid "Left hidden"
+msgstr ""
+
+#: inc/options.php:9464 inc/options.php:13255
+msgid "Style 11"
+msgstr ""
+
+#: inc/options.php:9473 inc/options.php:13264
+msgid "Header skin"
+msgstr ""
+
+#: inc/options.php:9483 inc/options.php:13274
+msgid "Sticky header style"
+msgstr ""
+
+#: inc/options.php:9494 inc/options.php:13285
+msgid "Sticky header skin"
+msgstr ""
+
+#: inc/options.php:9504 inc/options.php:9519 inc/options.php:10190
+#: inc/options.php:10196 inc/options.php:10800 inc/options.php:13302
+#: inc/options.php:13308
+msgid "Hero section"
+msgstr ""
+
+#: inc/options.php:9505
+msgid "Global hero section options."
+msgstr ""
+
+#: inc/options.php:9536 inc/options.php:10278
+msgid "Only for content block hero section type."
+msgstr ""
+
+#: inc/options.php:9537 inc/options.php:10277 inc/options.php:13326
+msgid "Choose a content block to insert as a page hero section."
+msgstr ""
+
+#: inc/options.php:9542 inc/options.php:10209 inc/options.php:13333
+msgid "Hero section layout"
+msgstr ""
+
+#: inc/options.php:9543 inc/options.php:9589 inc/options.php:9597
+#: inc/options.php:9604 inc/options.php:9611 inc/options.php:9627
+#: inc/options.php:9651 inc/options.php:9658 inc/options.php:9684
+#: inc/options.php:9696 inc/options.php:9708 inc/options.php:9716
+#: inc/options.php:9802 inc/options.php:9811 inc/options.php:9817
+#: inc/options.php:9823 inc/options.php:9834 inc/options.php:9847
+#: inc/options.php:9853 inc/options.php:9859 inc/options.php:9872
+#: inc/options.php:9878 inc/options.php:9890 inc/options.php:10248
+#: inc/options.php:10341 inc/options.php:10378 inc/options.php:10451
+#: inc/options.php:10457 inc/options.php:10887 inc/options.php:10923
+#: inc/options.php:10995 inc/options.php:11001 inc/options.php:13372
+#: inc/options.php:13385 inc/options.php:13393 inc/options.php:13400
+#: inc/options.php:13407 inc/options.php:13414 inc/options.php:13427
+#: inc/options.php:13434 inc/options.php:13458 inc/options.php:13471
+#: inc/options.php:13479 inc/options.php:13544 inc/options.php:13550
+msgid "Only for default hero section type."
+msgstr ""
+
+#: inc/options.php:9546 inc/options.php:10217 inc/options.php:13341
+msgid "Centered"
+msgstr ""
+
+#: inc/options.php:9547 inc/options.php:10218 inc/options.php:13342
+msgid "Layout 1"
+msgstr ""
+
+#: inc/options.php:9551 inc/options.php:10222 inc/options.php:13346
+msgid "Centered, bottom-aligned breadcrumbs"
+msgstr ""
+
+#: inc/options.php:9552 inc/options.php:10223 inc/options.php:13347
+msgid "Layout 2"
+msgstr ""
+
+#: inc/options.php:9556 inc/options.php:10227 inc/options.php:13351
+msgid "Left-aligned"
+msgstr ""
+
+#: inc/options.php:9557 inc/options.php:10228 inc/options.php:13352
+msgid "Layout 3"
+msgstr ""
+
+#: inc/options.php:9561 inc/options.php:10232 inc/options.php:13356
+msgid "Right-aligned"
+msgstr ""
+
+#: inc/options.php:9562 inc/options.php:10233 inc/options.php:13357
+msgid "Layout 4"
+msgstr ""
+
+#: inc/options.php:9566 inc/options.php:10237 inc/options.php:13361
+msgid "Left-aligned separated"
+msgstr ""
+
+#: inc/options.php:9567 inc/options.php:10238 inc/options.php:13362
+msgid "Layout 5"
+msgstr ""
+
+#: inc/options.php:9571 inc/options.php:10242 inc/options.php:13366
+msgid "Right-aligned separated"
+msgstr ""
+
+#: inc/options.php:9572 inc/options.php:10243 inc/options.php:13367
+msgid "Layout 6"
+msgstr ""
+
+#: inc/options.php:9581 inc/options.php:10284 inc/options.php:10836
+#: inc/options.php:13377
+msgid "Relative height"
+msgstr ""
+
+#: inc/options.php:9582 inc/options.php:10837
+msgid "Height as percentage of screen size. Set to <code>0</code> to disable."
+msgstr ""
+
+#: inc/options.php:9594 inc/options.php:10297 inc/options.php:10848
+#: inc/options.php:13390
+msgid "Min. height"
+msgstr ""
+
+#: inc/options.php:9595
+msgid "Minimum height in pixels. Leave empty to disable."
+msgstr ""
+
+#: inc/options.php:9602 inc/options.php:10305 inc/options.php:10855
+#: inc/options.php:13398
+msgid "Additional top padding"
+msgstr ""
+
+#: inc/options.php:9609 inc/options.php:10312 inc/options.php:10861
+#: inc/options.php:13405
+msgid "Additional bottom padding"
+msgstr ""
+
+#: inc/options.php:9616 inc/options.php:9623 inc/options.php:10320
+#: inc/options.php:10868 inc/options.php:12003 inc/options.php:13413
+msgid "Background"
+msgstr ""
+
+#: inc/options.php:9632 inc/options.php:10326 inc/options.php:10873
+#: inc/options.php:13419
+msgid "Use featured image"
+msgstr ""
+
+#: inc/options.php:9633
+msgid ""
+"Use featured image for each single post/page/product etc. Only for default "
+"hero section type."
+msgstr ""
+
+#: inc/options.php:9634
+msgid "If switched on, will override the background image."
+msgstr ""
+
+#: inc/options.php:9644
+msgid "Enable lazy background image loading"
+msgstr ""
+
+#: inc/options.php:9646
+msgid "Enable"
+msgstr ""
+
+#: inc/options.php:9649
+msgid "Default theme setting"
+msgstr ""
+
+#: inc/options.php:9650
+msgid ""
+"You can override theme's default lazy image loading settings for this "
+"element."
+msgstr ""
+
+#: inc/options.php:9656 inc/options.php:10339 inc/options.php:10885
+#: inc/options.php:12626 inc/options.php:13432
+msgid "Overlay color"
+msgstr ""
+
+#: inc/options.php:9675
+msgid "Effects &amp; decoration"
+msgstr ""
+
+#: inc/options.php:9681 inc/options.php:10358 inc/options.php:10904
+#: inc/options.php:13451
+msgid "Full hero section scroll"
+msgstr ""
+
+#: inc/options.php:9682 inc/options.php:10359 inc/options.php:10905
+#: inc/options.php:13452
+msgid ""
+"If enabled, hero section will be fully scrolled down on first user scroll "
+"event."
+msgstr ""
+
+#: inc/options.php:9689 inc/options.php:10370 inc/options.php:10915
+#: inc/options.php:13463
+msgid "Image parallax effect"
+msgstr ""
+
+#: inc/options.php:9691 inc/options.php:10373 inc/options.php:10918
+#: inc/options.php:13466
+msgid "Scroll parallax"
+msgstr ""
+
+#: inc/options.php:9692 inc/options.php:10374 inc/options.php:10919
+#: inc/options.php:13467
+msgid "Mouse move parallax"
+msgstr ""
+
+#: inc/options.php:9695 inc/options.php:9724 inc/options.php:9725
+#: inc/options.php:10372 inc/options.php:10399 inc/options.php:10400
+#: inc/options.php:10471 inc/options.php:10917 inc/options.php:10943
+#: inc/options.php:10944 inc/options.php:11015 inc/options.php:12059
+#: inc/options.php:12071 inc/options.php:12176 inc/options.php:12257
+#: inc/options.php:12359 inc/options.php:12443 inc/options.php:12803
+#: inc/options.php:12951 inc/options.php:13465 inc/options.php:13492
+#: inc/options.php:13493 inc/options.php:13564
+msgid "None"
+msgstr ""
+
+#: inc/options.php:9701
+msgid "Parallax effect strength"
+msgstr ""
+
+#: inc/options.php:9713 inc/options.php:10383 inc/options.php:10928
+#: inc/options.php:13476
+msgid "Content fadeout effect"
+msgstr ""
+
+#: inc/options.php:9714 inc/options.php:10384 inc/options.php:10929
+#: inc/options.php:13477
+msgid ""
+"If enabled, hero section content will shift and fade out as the user "
+"scrolls down."
+msgstr ""
+
+#: inc/options.php:9721 inc/options.php:10391
+msgid "Bottom decoration"
+msgstr ""
+
+#: inc/options.php:9729 inc/options.php:9730 inc/options.php:10404
+#: inc/options.php:10405 inc/options.php:10948 inc/options.php:10949
+#: inc/options.php:13497 inc/options.php:13498
+msgid "Curve top"
+msgstr ""
+
+#: inc/options.php:9734 inc/options.php:9735 inc/options.php:10409
+#: inc/options.php:10410 inc/options.php:10953 inc/options.php:10954
+#: inc/options.php:13502 inc/options.php:13503
+msgid "Curve bottom"
+msgstr ""
+
+#: inc/options.php:9739 inc/options.php:9740 inc/options.php:10414
+#: inc/options.php:10415 inc/options.php:10958 inc/options.php:10959
+#: inc/options.php:13507 inc/options.php:13508
+msgid "Notch"
+msgstr ""
+
+#: inc/options.php:9744 inc/options.php:9745 inc/options.php:10419
+#: inc/options.php:10420 inc/options.php:10963 inc/options.php:10964
+#: inc/options.php:13512 inc/options.php:13513
+msgid "Notch reversed"
+msgstr ""
+
+#: inc/options.php:9749 inc/options.php:9750 inc/options.php:10424
+#: inc/options.php:10425 inc/options.php:10968 inc/options.php:10969
+#: inc/options.php:13517 inc/options.php:13518
+msgid "Waves 1"
+msgstr ""
+
+#: inc/options.php:9754 inc/options.php:9755 inc/options.php:10429
+#: inc/options.php:10430 inc/options.php:10973 inc/options.php:10974
+#: inc/options.php:13522 inc/options.php:13523
+msgid "Waves 2"
+msgstr ""
+
+#: inc/options.php:9764 inc/options.php:10462 inc/options.php:11006
+#: inc/options.php:13555
+msgid "Decoration color"
+msgstr ""
+
+#: inc/options.php:9765 inc/options.php:10463 inc/options.php:11007
+#: inc/options.php:13556
+msgid ""
+"You may want to match it with the background of your page of the first row "
+"on it."
+msgstr ""
+
+#: inc/options.php:9771 inc/options.php:10469 inc/options.php:11013
+#: inc/options.php:13562
+msgid "\"Scroll-down\" button"
+msgstr ""
+
+#: inc/options.php:9773 inc/options.php:10472 inc/options.php:11016
+#: inc/options.php:13565
+msgid "Arrow down"
+msgstr ""
+
+#: inc/options.php:9774 inc/options.php:10473 inc/options.php:11017
+#: inc/options.php:13566
+msgid "Angle down in circle"
+msgstr ""
+
+#: inc/options.php:9775 inc/options.php:10474 inc/options.php:11018
+#: inc/options.php:13567
+msgid "Angle down in round container"
+msgstr ""
+
+#: inc/options.php:9776 inc/options.php:10475 inc/options.php:11019
+#: inc/options.php:13568
+msgid "Mouse icon"
+msgstr ""
+
+#: inc/options.php:9784 inc/options.php:10483 inc/options.php:11027
+#: inc/options.php:13576
+msgid "\"Scroll-down\" button skin"
+msgstr ""
+
+#: inc/options.php:9800
+msgid "Enable breadcrumbs"
+msgstr ""
+
+#: inc/options.php:9807 inc/options.php:10450 inc/options.php:10994
+#: inc/options.php:13543
+msgid "Title font style"
+msgstr ""
+
+#: inc/options.php:9816 inc/options.php:10456 inc/options.php:11000
+#: inc/options.php:13549
+msgid "Breadcrumbs font"
+msgstr ""
+
+#: inc/options.php:9822 inc/options.php:10439 inc/options.php:10983
+#: inc/options.php:13532
+msgid "Hero section content skin"
+msgstr ""
+
+#: inc/options.php:9833
+msgid "Title and content color (light skin)"
+msgstr ""
+
+#: inc/options.php:9840
+msgid "Breadcrumb link color (light skin)"
+msgstr ""
+
+#: inc/options.php:9852
+msgid "Breadcrumb separator color (light skin)"
+msgstr ""
+
+#: inc/options.php:9858
+msgid "Title and content color (dark skin)"
+msgstr ""
+
+#: inc/options.php:9865
+msgid "Breadcrumb link color (dark skin)"
+msgstr ""
+
+#: inc/options.php:9877
+msgid "Breadcrumb separator color (dark skin)"
+msgstr ""
+
+#: inc/options.php:9883
+msgid "Breadcrumbs separator"
+msgstr ""
+
+#: inc/options.php:9885
+msgid "Slash"
+msgstr ""
+
+#: inc/options.php:9886
+msgid "Angle"
+msgstr ""
+
+#: inc/options.php:9887 inc/options.php:13096
+msgid "Circle"
+msgstr ""
+
+#: inc/options.php:9897 inc/options.php:10654 inc/options.php:11270
+#: inc/options.php:11546 inc/options.php:11652 inc/options.php:13594
+#: inc/options.php:13874
+msgid "Layout"
+msgstr ""
+
+#: inc/options.php:9898
+msgid "Global page layout options."
+msgstr ""
+
+#: inc/options.php:9908 inc/options.php:13626
+msgid "Default site width"
+msgstr ""
+
+#: inc/options.php:9909 inc/options.php:13627
+msgid "Full page width"
+msgstr ""
+
+#: inc/options.php:9916 inc/options.php:13635
+msgid "Content width limit"
+msgstr ""
+
+#: inc/options.php:9917 inc/options.php:13636
+msgid "Only for default site width."
+msgstr ""
+
+#: inc/options.php:9918 inc/options.php:9943 inc/options.php:9950
+#: inc/options.php:13637 inc/options.php:13662 inc/options.php:13669
+msgid "Units - <code>px</code>."
+msgstr ""
+
+#: inc/options.php:9924 inc/options.php:13643
+msgid "Extra page padding"
+msgstr ""
+
+#: inc/options.php:9925 inc/options.php:13644
+msgid "Add extra space around the page content. Units - <code>px</code>."
+msgstr ""
+
+#: inc/options.php:9937 inc/options.php:13656
+msgid "Page background color"
+msgstr ""
+
+#: inc/options.php:9942 inc/options.php:13661
+msgid "Content top padding"
+msgstr ""
+
+#: inc/options.php:9949 inc/options.php:13668
+msgid "Content bottom padding"
+msgstr ""
+
+#: inc/options.php:9956 inc/options.php:13683
+msgid "Page layout"
+msgstr ""
+
+#: inc/options.php:9959 inc/options.php:13691
+msgid "No sidebar"
+msgstr ""
+
+#: inc/options.php:9960 inc/options.php:13692
+msgid "Full width content"
+msgstr ""
+
+#: inc/options.php:9964 inc/options.php:9965 inc/options.php:13696
+#: inc/options.php:13697
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/options.php:9969 inc/options.php:9970 inc/options.php:13701
+#: inc/options.php:13702
+msgid "Left sticky sidebar"
+msgstr ""
+
+#: inc/options.php:9974 inc/options.php:9975 inc/options.php:13706
+#: inc/options.php:13707
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/options.php:9979 inc/options.php:9980 inc/options.php:13711
+#: inc/options.php:13712
+msgid "Right sticky sidebar"
+msgstr ""
+
+#: inc/options.php:9989 inc/options.php:13721
+msgid "Sidebar width"
+msgstr ""
+
+#: inc/options.php:9990 inc/options.php:10002 inc/options.php:10010
+#: inc/options.php:10021 inc/options.php:10036 inc/options.php:13722
+#: inc/options.php:13735 inc/options.php:13743 inc/options.php:13754
+#: inc/options.php:13771
+msgid "Only for page layouts with sidebar."
+msgstr ""
+
+#: inc/options.php:10001 inc/options.php:13734
+msgid "Sidebar top padding"
+msgstr ""
+
+#: inc/options.php:10003 inc/options.php:13736
+msgid ""
+"Use this to make sidebar content start at the same level as the main page "
+"content. Units - <code>px</code>."
+msgstr ""
+
+#: inc/options.php:10009 inc/options.php:13742
+msgid "Sidebar content skin"
+msgstr ""
+
+#: inc/options.php:10020 inc/options.php:13753
+msgid "Sidebar to use"
+msgstr ""
+
+#: inc/options.php:10035 inc/options.php:13770
+msgid "Sidebar base font size"
+msgstr ""
+
+#: inc/options.php:10042
+msgid "Global footer options."
+msgstr ""
+
+#: inc/options.php:10056 inc/options.php:13791
+msgid "Enable footer"
+msgstr ""
+
+#: inc/options.php:10068 inc/options.php:13804
+msgid "Choose a content block to insert as a footer."
+msgstr ""
+
+#: inc/options.php:10073 inc/options.php:13809
+msgid "Footer style"
+msgstr ""
+
+#: inc/options.php:10076 inc/options.php:13812
+msgid "Underlying"
+msgstr ""
+
+#: inc/options.php:10083 inc/options.php:13819
+msgid "Underlying footer breakpoint"
+msgstr ""
+
+#: inc/options.php:10084 inc/options.php:13820
+msgid ""
+"Switch to default header style under this width. Units - "
+"<strong>px</strong>."
+msgstr ""
+
+#: inc/options.php:10096 inc/options.php:13826
+msgid "Widgets skin"
+msgstr ""
+
+#: inc/options.php:10106 inc/options.php:12605 inc/options.php:13837
+msgid "Default text color"
+msgstr ""
+
+#: inc/options.php:10112 inc/options.php:13843
+msgid "Dark text color"
+msgstr ""
+
+#: inc/options.php:10118 inc/options.php:12612 inc/options.php:13849
+msgid "Light text color"
+msgstr ""
+
+#: inc/options.php:10124
+msgid "Link color"
+msgstr ""
+
+#: inc/options.php:10130 inc/options.php:13855
+msgid "Link hover color"
+msgstr ""
+
+#: inc/options.php:10138 inc/options.php:10144
+msgid "Pages"
+msgstr ""
+
+#: inc/options.php:10145
+msgid "Settings affect single pages."
+msgstr ""
+
+#: inc/options.php:10163
+msgid "Display page comments"
+msgstr ""
+
+#: inc/options.php:10173
+msgid "Blog &amp; Posts"
+msgstr ""
+
+#: inc/options.php:10179
+msgid "Post entry"
+msgstr ""
+
+#: inc/options.php:10201
+msgid "Layout for posts - style 1"
+msgstr ""
+
+#: inc/options.php:10204 inc/options.php:10212 inc/options.php:10213
+#: inc/options.php:10279 inc/options.php:10333 inc/options.php:10364
+#: inc/options.php:10377 inc/options.php:10394 inc/options.php:10395
+#: inc/options.php:10444 inc/options.php:10478 inc/options.php:10489
+#: inc/options.php:10781 inc/options.php:10880 inc/options.php:10910
+#: inc/options.php:10922 inc/options.php:10938 inc/options.php:10939
+#: inc/options.php:10988 inc/options.php:11022 inc/options.php:11033
+#: inc/options.php:11337 inc/options.php:13152 inc/options.php:13160
+#: inc/options.php:13169 inc/options.php:13170 inc/options.php:13269
+#: inc/options.php:13280 inc/options.php:13290 inc/options.php:13315
+#: inc/options.php:13328 inc/options.php:13336 inc/options.php:13337
+#: inc/options.php:13426 inc/options.php:13457 inc/options.php:13470
+#: inc/options.php:13487 inc/options.php:13488 inc/options.php:13537
+#: inc/options.php:13571 inc/options.php:13582 inc/options.php:13619
+#: inc/options.php:13630 inc/options.php:13686 inc/options.php:13687
+#: inc/options.php:13748 inc/options.php:13757 inc/options.php:13802
+#: inc/options.php:13814 inc/options.php:13832
+msgid "Inherit"
+msgstr ""
+
+#: inc/options.php:10253 inc/options.php:10812
+msgid "Show author name"
+msgstr ""
+
+#: inc/options.php:10259
+msgid "Show post category"
+msgstr ""
+
+#: inc/options.php:10265
+msgid "Show post date"
+msgstr ""
+
+#: inc/options.php:10285 inc/options.php:13378
+msgid ""
+"Height as percentage of screen size. Set to <code>0</code> to disable or "
+"<code>-1</code> to inherit."
+msgstr ""
+
+#: inc/options.php:10292 inc/options.php:10300 inc/options.php:10307
+#: inc/options.php:10314 inc/options.php:10321 inc/options.php:10334
+#: inc/options.php:10365 inc/options.php:10386
+msgid "Only for default and custom hero section type."
+msgstr ""
+
+#: inc/options.php:10298 inc/options.php:10849 inc/options.php:13391
+msgid ""
+"Minimum height in pixels. Set to <code>0</code> disable or leave empty to "
+"inherit."
+msgstr ""
+
+#: inc/options.php:10327 inc/options.php:10874 inc/options.php:13420
+msgid "Use featured image for each post instead"
+msgstr ""
+
+#: inc/options.php:10361 inc/options.php:10907 inc/options.php:13454
+msgid "On"
+msgstr ""
+
+#: inc/options.php:10362 inc/options.php:10908 inc/options.php:13455
+msgid "Off"
+msgstr ""
+
+#: inc/options.php:10503
+msgid "Post heading font"
+msgstr ""
+
+#: inc/options.php:10508
+msgid "Post content font"
+msgstr ""
+
+#: inc/options.php:10513
+msgid "Hide media in post body for these post formats"
+msgstr ""
+
+#: inc/options.php:10514
+msgid "Useful if media is shown in the hero section or embedded in post content."
+msgstr ""
+
+#: inc/options.php:10517
+msgid "Gallery"
+msgstr ""
+
+#: inc/options.php:10518
+msgid "Video"
+msgstr ""
+
+#: inc/options.php:10519
+msgid "Audio"
+msgstr ""
+
+#: inc/options.php:10520
+msgid "Quote"
+msgstr ""
+
+#: inc/options.php:10526
+msgid "Author description block on post page"
+msgstr ""
+
+#: inc/options.php:10532
+msgid "Comments on post page"
+msgstr ""
+
+#: inc/options.php:10538
+msgid "Meta elements"
+msgstr ""
+
+#: inc/options.php:10544
+msgid "Post title on post page"
+msgstr ""
+
+#: inc/options.php:10550
+msgid "Author name in post meta"
+msgstr ""
+
+#: inc/options.php:10556
+msgid "Post category in post meta"
+msgstr ""
+
+#: inc/options.php:10562
+msgid "Post tags"
+msgstr ""
+
+#: inc/options.php:10568 inc/options.php:11184 inc/options.php:11453
+msgid "Social buttons"
+msgstr ""
+
+#: inc/options.php:10574 inc/options.php:11518
+msgid "Post like button"
+msgstr ""
+
+#: inc/options.php:10580 inc/options.php:11459
+msgid "Post share buttons"
+msgstr ""
+
+#: inc/options.php:10583 inc/options.php:11199 inc/options.php:11468
+msgid "Predefined buttons"
+msgstr ""
+
+#: inc/options.php:10584 inc/options.php:11200 inc/options.php:11469
+msgid "Custom code"
+msgstr ""
+
+#: inc/options.php:10592 inc/options.php:11208 inc/options.php:11477
+#: inc/options.php:12740
+msgid "Facebook"
+msgstr ""
+
+#: inc/options.php:10599 inc/options.php:11215 inc/options.php:11484
+#: inc/options.php:12746
+msgid "Google+"
+msgstr ""
+
+#: inc/options.php:10606 inc/options.php:11222 inc/options.php:11491
+#: inc/options.php:12752
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/options.php:10613 inc/options.php:11229 inc/options.php:11498
+#: inc/options.php:12758
+msgid "Pinterest"
+msgstr ""
+
+#: inc/options.php:10620 inc/options.php:11236 inc/options.php:11505
+#: inc/options.php:12764
+msgid "Twitter"
+msgstr ""
+
+#: inc/options.php:10627 inc/options.php:11243 inc/options.php:11512
+#: inc/options.php:12770
+msgid "VK.com"
+msgstr ""
+
+#: inc/options.php:10633
+msgid "Post link copy"
+msgstr ""
+
+#: inc/options.php:10641 inc/options.php:11257 inc/options.php:11533
+msgid "Custom share code"
+msgstr ""
+
+#: inc/options.php:10642 inc/options.php:11258 inc/options.php:11534
+msgid "Add social share buttons code using this field."
+msgstr ""
+
+#: inc/options.php:10648 inc/options.php:11264 inc/options.php:11540
+#: inc/options.php:13868
+msgid "Navigation bar"
+msgstr ""
+
+#: inc/options.php:10657 inc/options.php:11273 inc/options.php:11423
+#: inc/options.php:11549 inc/options.php:13877
+msgid "Bottom"
+msgstr ""
+
+#: inc/options.php:10658 inc/options.php:11274 inc/options.php:11550
+#: inc/options.php:13878
+msgid "Sticky"
+msgstr ""
+
+#: inc/options.php:10666 inc/options.php:11283 inc/options.php:11558
+#: inc/options.php:13887
+msgid "Navigation skin"
+msgstr ""
+
+#: inc/options.php:10677 inc/options.php:11294 inc/options.php:11568
+#: inc/options.php:13898
+msgid "\"Back to list\" button"
+msgstr ""
+
+#: inc/options.php:10684 inc/options.php:11301 inc/options.php:11575
+#: inc/options.php:13905
+msgid "Navigation buttons"
+msgstr ""
+
+#: inc/options.php:10691
+msgid "Related posts"
+msgstr ""
+
+#: inc/options.php:10697
+msgid "Related posts display"
+msgstr ""
+
+#: inc/options.php:10703
+msgid "Relation by"
+msgstr ""
+
+#: inc/options.php:10705
+msgid "Category"
+msgstr ""
+
+#: inc/options.php:10706
+msgid "Tag"
+msgstr ""
+
+#: inc/options.php:10714
+msgid "Total number of related posts shown"
+msgstr ""
+
+#: inc/options.php:10725
+msgid "Slider autoplay speed (in seconds)"
+msgstr ""
+
+#: inc/options.php:10726
+msgid "Set to <code>0</code> to disable autoplay."
+msgstr ""
+
+#: inc/options.php:10737
+msgid "Display post category"
+msgstr ""
+
+#: inc/options.php:10744
+msgid "Display post date"
+msgstr ""
+
+#: inc/options.php:10754
+msgid "Settings affect blog archive pages such as category and date pages."
+msgstr ""
+
+#: inc/options.php:10774 inc/options.php:11048 inc/options.php:11330
+msgid "Content block to be used to display blog archives."
+msgstr ""
+
+#: inc/options.php:10775 inc/options.php:11049 inc/options.php:11331
+msgid ""
+"Content block should contain a \"Post Grid\" shortcode. \"Query\" option in "
+"shortcode settings must be set to \"Global query\"."
+msgstr ""
+
+#: inc/options.php:10789
+msgid "Author page"
+msgstr ""
+
+#: inc/options.php:10790
+msgid "Settings affect author page."
+msgstr ""
+
+#: inc/options.php:10806
+msgid "Show author image"
+msgstr ""
+
+#: inc/options.php:10818
+msgid "Show author position"
+msgstr ""
+
+#: inc/options.php:10824
+msgid "Show author description"
+msgstr ""
+
+#: inc/options.php:10830
+msgid "Show author social icons"
+msgstr ""
+
+#: inc/options.php:10935 inc/options.php:13484
+msgid "Decoration style"
+msgstr ""
+
+#: inc/options.php:11055
+msgid "Select item"
+msgstr ""
+
+#: inc/options.php:11064
+msgid "Portfolio"
+msgstr ""
+
+#: inc/options.php:11071
+msgid "Portfolio item"
+msgstr ""
+
+#: inc/options.php:11072
+msgid "Settings affect single portfolio item pages."
+msgstr ""
+
+#: inc/options.php:11090
+msgid "Content layout"
+msgstr ""
+
+#: inc/options.php:11091
+msgid ""
+"Left and right positioning is <strong>NOT</strong> available with the "
+"following media layouts: <strong>image carousel, zig-zag, checkers</strong>."
+msgstr ""
+
+#: inc/options.php:11094 inc/options.php:11095
+msgid "Top - one column"
+msgstr ""
+
+#: inc/options.php:11099 inc/options.php:11100
+msgid "Top - two columns"
+msgstr ""
+
+#: inc/options.php:11104 inc/options.php:11105
+msgid "Bottom - one column"
+msgstr ""
+
+#: inc/options.php:11109 inc/options.php:11110
+msgid "Bottom - two columns"
+msgstr ""
+
+#: inc/options.php:11119 inc/options.php:11120
+msgid "Left sticky"
+msgstr ""
+
+#: inc/options.php:11124 inc/options.php:11125 inc/options.php:11661
+msgid "Right"
+msgstr ""
+
+#: inc/options.php:11129 inc/options.php:11130
+msgid "Right sticky"
+msgstr ""
+
+#: inc/options.php:11139
+msgid "Show title"
+msgstr ""
+
+#: inc/options.php:11145
+msgid "Show description"
+msgstr ""
+
+#: inc/options.php:11151
+msgid "Show media"
+msgstr ""
+
+#: inc/options.php:11157
+msgid "Show details"
+msgstr ""
+
+#: inc/options.php:11163
+msgid "Portfolio item title font style"
+msgstr ""
+
+#: inc/options.php:11168
+msgid "Portfolio item description font style"
+msgstr ""
+
+#: inc/options.php:11173
+msgid "Portfolio item details"
+msgstr ""
+
+#: inc/options.php:11174
+msgid "Add, name and sort portfolio details labels"
+msgstr ""
+
+#: inc/options.php:11190
+msgid "Portfolio like button"
+msgstr ""
+
+#: inc/options.php:11196
+msgid "Portfolio item share buttons"
+msgstr ""
+
+#: inc/options.php:11249
+msgid "Portfolio link copy"
+msgstr ""
+
+#: inc/options.php:11275 inc/options.php:13879
+msgid "Image preview"
+msgstr ""
+
+#: inc/options.php:11311
+msgid "Settings affect portfolio archive pages."
+msgstr ""
+
+#: inc/options.php:11342
+msgid "Number of portfolio items per page"
+msgstr ""
+
+#: inc/options.php:11351
+msgid "Display link to portfolio item page in lightbox"
+msgstr ""
+
+#: inc/options.php:11357
+msgid "Custom portfolio post type slug"
+msgstr ""
+
+#: inc/options.php:11358
+msgid "E.g. \"Projects\", \"Works\", etc."
+msgstr ""
+
+#: inc/options.php:11359
+msgid ""
+"Enter a different post type name, if you are not satisfied with the default "
+"one - <strong>Portfolio</strong>."
+msgstr ""
+
+#: inc/options.php:11376
+msgid "Product page"
+msgstr ""
+
+#: inc/options.php:11377
+msgid "Settings affect single product pages."
+msgstr ""
+
+#: inc/options.php:11397 inc/options.php:11715
+msgid "Product image ratio"
+msgstr ""
+
+#: inc/options.php:11398
+msgid "E.g. <strong>3:4</strong>."
+msgstr ""
+
+#: inc/options.php:11399 inc/options.php:11716
+msgid "Leave blank to use initial image ratio."
+msgstr ""
+
+#: inc/options.php:11408
+msgid "Product image gallery width"
+msgstr ""
+
+#: inc/options.php:11410
+msgid "3/12"
+msgstr ""
+
+#: inc/options.php:11411
+msgid "4/12"
+msgstr ""
+
+#: inc/options.php:11412
+msgid "5/12"
+msgstr ""
+
+#: inc/options.php:11413
+msgid "6/12"
+msgstr ""
+
+#: inc/options.php:11414
+msgid "7/12"
+msgstr ""
+
+#: inc/options.php:11421
+msgid "Thumbnails position"
+msgstr ""
+
+#: inc/options.php:11431
+msgid "Display breadcrumbs"
+msgstr ""
+
+#: inc/options.php:11437
+msgid "Display subtitle"
+msgstr ""
+
+#: inc/options.php:11443 inc/options.php:11770
+msgid "Product title font style"
+msgstr ""
+
+#: inc/options.php:11448 inc/options.php:11775
+msgid "Product subtitle font style"
+msgstr ""
+
+#: inc/options.php:11465
+msgid "Product like &amp; share buttons"
+msgstr ""
+
+#: inc/options.php:11525
+msgid "Product link copy"
+msgstr ""
+
+#: inc/options.php:11584
+msgid "Shop page"
+msgstr ""
+
+#: inc/options.php:11585
+msgid "Settings affect main shop and archive pages."
+msgstr ""
+
+#: inc/options.php:11604
+msgid "Number of products shown per page"
+msgstr ""
+
+#: inc/options.php:11613
+msgid "Product columns"
+msgstr ""
+
+#: inc/options.php:11614
+msgid "Maximum number of columns in product grid."
+msgstr ""
+
+#: inc/options.php:11623
+msgid "Product category columns"
+msgstr ""
+
+#: inc/options.php:11624
+msgid "Maximum number of columns in product category grid."
+msgstr ""
+
+#: inc/options.php:11638
+msgid "Settings affect various WooCommerce sections and components."
+msgstr ""
+
+#: inc/options.php:11646
+msgid "Category tile"
+msgstr ""
+
+#: inc/options.php:11655
+msgid "Text on the left"
+msgstr ""
+
+#: inc/options.php:11660
+msgid "Text on the right"
+msgstr ""
+
+#: inc/options.php:11670
+msgid "Display product count in category"
+msgstr ""
+
+#: inc/options.php:11676
+msgid "Category title font style"
+msgstr ""
+
+#: inc/options.php:11681
+msgid "Category description font style"
+msgstr ""
+
+#: inc/options.php:11686
+msgid "Product tile"
+msgstr ""
+
+#: inc/options.php:11693
+msgid "Image padding"
+msgstr ""
+
+#: inc/options.php:11694
+msgid "Set bigger padding for more space around the image."
+msgstr ""
+
+#: inc/options.php:11706
+msgid "Image background color"
+msgstr ""
+
+#: inc/options.php:11707
+msgid ""
+"You may want to match the color with the product image background if using "
+"image padding."
+msgstr ""
+
+#: inc/options.php:11721
+msgid "Show second product image on tile hover"
+msgstr ""
+
+#: inc/options.php:11727
+msgid "Display product subtitle"
+msgstr ""
+
+#: inc/options.php:11733
+msgid "Display product rating"
+msgstr ""
+
+#: inc/options.php:11739
+msgid "Display image zoom button"
+msgstr ""
+
+#: inc/options.php:11745
+msgid "Display product preview button"
+msgstr ""
+
+#: inc/options.php:11751
+msgid "Display share buttons in lightbox"
+msgstr ""
+
+#: inc/options.php:11757
+msgid "Display link to product page in lightbox"
+msgstr ""
+
+#: inc/options.php:11763
+msgid "Display add to wishlist button"
+msgstr ""
+
+#: inc/options.php:11764
+msgid ""
+"Button will be shown if <a "
+"href=\"//wordpress.org/plugins/yith-woocommerce-wishlist/\">YITH "
+"WooCommerce Wishlist</a> plugin is installed."
+msgstr ""
+
+#: inc/options.php:11780
+msgid "Upsells"
+msgstr ""
+
+#: inc/options.php:11786 inc/options.php:11812
+msgid "Number of products"
+msgstr ""
+
+#: inc/options.php:11787
+msgid "Maximum number of items in up-sell products section."
+msgstr ""
+
+#: inc/options.php:11796 inc/options.php:11822
+msgid "Columns"
+msgstr ""
+
+#: inc/options.php:11797
+msgid "Number of columns in up-sells section."
+msgstr ""
+
+#: inc/options.php:11806 woocommerce/single-product/related.php:28
+msgid "Related products"
+msgstr ""
+
+#: inc/options.php:11813
+msgid "Maximum number of items in related products section."
+msgstr ""
+
+#: inc/options.php:11823
+msgid "Number of columns in related products section."
+msgstr ""
+
+#: inc/options.php:11832
+msgid "Product badges"
+msgstr ""
+
+#: inc/options.php:11838
+msgid "Discount amount"
+msgstr ""
+
+#: inc/options.php:11839
+msgid "Show amount of discount on a sale badge (where applicable)."
+msgstr ""
+
+#: inc/options.php:11841
+msgid "Show"
+msgstr ""
+
+#: inc/options.php:11842
+msgid "Hide"
+msgstr ""
+
+#: inc/options.php:11849
+msgid "Sale badge color"
+msgstr ""
+
+#: inc/options.php:11855
+msgid "Custom product badge color"
+msgstr ""
+
+#: inc/options.php:11856
+msgid "If left empty, will match the site accent color."
+msgstr ""
+
+#: inc/options.php:11866
+msgid "Utility pages"
+msgstr ""
+
+#: inc/options.php:11874
+msgid "Search page"
+msgstr ""
+
+#: inc/options.php:11903
+msgid "404 page"
+msgstr ""
+
+#: inc/options.php:11921
+msgid "404 page style"
+msgstr ""
+
+#: inc/options.php:11922
+msgid "Choose default style or custom style to use a content block instead."
+msgstr ""
+
+#: inc/options.php:11925
+msgid "Custom"
+msgstr ""
+
+#: inc/options.php:11948 inc/options.php:11968
+msgid "Maintenance page"
+msgstr ""
+
+#: inc/options.php:11956
+msgid "Activate maintenance mode"
+msgstr ""
+
+#: inc/options.php:11957
+msgid ""
+"Maintenance mode will be activated for not logged in users after saving the "
+"changes."
+msgstr ""
+
+#: inc/options.php:11969
+msgid "Choose a content block to display on a maintenance page."
+msgstr ""
+
+#: inc/options.php:11970
+msgid "If not set, the default maintenance page will be shown."
+msgstr ""
+
+#: inc/options.php:11978
+msgid "Login page"
+msgstr ""
+
+#: inc/options.php:11986
+msgid "Custom login page"
+msgstr ""
+
+#: inc/options.php:11987
+msgid "Override default WordPress login page style to make the page nicer."
+msgstr ""
+
+#: inc/options.php:11995
+msgid "If not set, default WordPress logo will be used."
+msgstr ""
+
+#: inc/options.php:11996
+msgid "Logo will be shown twice as small to appear sharp on retina displays."
+msgstr ""
+
+#: inc/options.php:12009
+msgid "Image overlay color"
+msgstr ""
+
+#: inc/options.php:12035
+msgid "Content before the login form"
+msgstr ""
+
+#: inc/options.php:12036 inc/options.php:12047
+msgid "Raw code for the content to display"
+msgstr ""
+
+#: inc/options.php:12046
+msgid "Content after the login form"
+msgstr ""
+
+#: inc/options.php:12057
+msgid "Content above the form in Sign In popup"
+msgstr ""
+
+#: inc/options.php:12058
+msgid "Choose a content block to insert before the form in login popup."
+msgstr ""
+
+#: inc/options.php:12069
+msgid "Content below the form in Sign In popup"
+msgstr ""
+
+#: inc/options.php:12070
+msgid "Choose a content block to insert after the form in login popup."
+msgstr ""
+
+#: inc/options.php:12080
+msgid "Button"
+msgstr ""
+
+#: inc/options.php:12089
+msgid "Default design of primary button."
+msgstr ""
+
+#: inc/options.php:12097 inc/options.php:12277
+msgid "Additional selectors"
+msgstr ""
+
+#: inc/options.php:12098 inc/options.php:12278
+msgid ""
+"List additional element selectors (separated with comma) that you want to "
+"look like a default button."
+msgstr ""
+
+#: inc/options.php:12104 inc/options.php:12284
+msgid "Default state"
+msgstr ""
+
+#: inc/options.php:12165 inc/options.php:12246 inc/options.php:12348
+#: inc/options.php:12432
+msgid "Border radius"
+msgstr ""
+
+#: inc/options.php:12174 inc/options.php:12255 inc/options.php:12357
+#: inc/options.php:12441
+msgid "Shadow/glow effect"
+msgstr ""
+
+#: inc/options.php:12177 inc/options.php:12258 inc/options.php:12360
+#: inc/options.php:12444
+msgid "Shadow"
+msgstr ""
+
+#: inc/options.php:12178 inc/options.php:12259 inc/options.php:12361
+#: inc/options.php:12445
+msgid "Glow"
+msgstr ""
+
+#: inc/options.php:12185 inc/options.php:12368
+msgid "Hover state"
+msgstr ""
+
+#: inc/options.php:12269
+msgid "Default design of secondary button."
+msgstr ""
+
+#: inc/options.php:12468
+msgid "Website font settings"
+msgstr ""
+
+#: inc/options.php:12469 inc/options.php:12486 inc/options.php:12497
+#: inc/options.php:12509 inc/options.php:12521 inc/options.php:12533
+#: inc/options.php:12545 inc/options.php:12557
+msgid "Will be used unless specific styles are applied to an element."
+msgstr ""
+
+#: inc/options.php:12477
+msgid "Headings"
+msgstr ""
+
+#: inc/options.php:12485
+msgid "Headings typography settings"
+msgstr ""
+
+#: inc/options.php:12496
+msgid "H1"
+msgstr ""
+
+#: inc/options.php:12508
+msgid "H2"
+msgstr ""
+
+#: inc/options.php:12520
+msgid "H3"
+msgstr ""
+
+#: inc/options.php:12532
+msgid "H4"
+msgstr ""
+
+#: inc/options.php:12544
+msgid "H5"
+msgstr ""
+
+#: inc/options.php:12556
+msgid "H6"
+msgstr ""
+
+#: inc/options.php:12576
+msgid "Main theme colors"
+msgstr ""
+
+#: inc/options.php:12584
+msgid "Main theme accent color"
+msgstr ""
+
+#: inc/options.php:12585
+msgid "Used in key interface elements."
+msgstr ""
+
+#: inc/options.php:12591
+msgid "Dark color"
+msgstr ""
+
+#: inc/options.php:12592
+msgid "Used in headings, as well as other bold and ui elements."
+msgstr ""
+
+#: inc/options.php:12598
+msgid "Light background"
+msgstr ""
+
+#: inc/options.php:12599
+msgid "Used as light background in theme interface elements."
+msgstr ""
+
+#: inc/options.php:12606
+msgid "Used as default website text color."
+msgstr ""
+
+#: inc/options.php:12613
+msgid "Used in secondary elements."
+msgstr ""
+
+#: inc/options.php:12620
+msgid "Used as default border color."
+msgstr ""
+
+#: inc/options.php:12627
+msgid "Used as default overlay color."
+msgstr ""
+
+#: inc/options.php:12640
+msgid "Color palette"
+msgstr ""
+
+#: inc/options.php:12648
+msgid "Additional color palette"
+msgstr ""
+
+#: inc/options.php:12649
+msgid "Choose additional colors to be used for content elements."
+msgstr ""
+
+#: inc/options.php:12662
+msgid "Sidebars"
+msgstr ""
+
+#: inc/options.php:12663
+msgid ""
+"Add and reorganize sidebars to be used on this site. Sidebars will be "
+"available for use <strong>after saving changes and reloading the "
+"page</strong>."
+msgstr ""
+
+#: inc/options.php:12671
+msgid "Available sidebars"
+msgstr ""
+
+#: inc/options.php:12682
+msgid "Lightbox"
+msgstr ""
+
+#: inc/options.php:12683
+msgid ""
+"Displayed while website elements such as images, posts, modals etc. are "
+"being loaded."
+msgstr ""
+
+#: inc/options.php:12691
+msgid "Design &amp; performance"
+msgstr ""
+
+#: inc/options.php:12697
+msgid "Lightbox overlay background color"
+msgstr ""
+
+#: inc/options.php:12710
+msgid "Navigation with mouse scroll"
+msgstr ""
+
+#: inc/options.php:12722
+msgid "Gallery thumbnails"
+msgstr ""
+
+#: inc/options.php:12728
+msgid "Image counter"
+msgstr ""
+
+#: inc/options.php:12734
+msgid "Share buttons"
+msgstr ""
+
+#: inc/options.php:12776
+msgid "Preloader"
+msgstr ""
+
+#: inc/options.php:12784
+msgid "Website page transitions"
+msgstr ""
+
+#: inc/options.php:12790
+msgid "Page transition effect"
+msgstr ""
+
+#: inc/options.php:12792 inc/options.php:12920
+msgid "Fade"
+msgstr ""
+
+#: inc/options.php:12793
+msgid "Fade top"
+msgstr ""
+
+#: inc/options.php:12794
+msgid "Fade bottom"
+msgstr ""
+
+#: inc/options.php:12795
+msgid "Fade left"
+msgstr ""
+
+#: inc/options.php:12796
+msgid "Fade right"
+msgstr ""
+
+#: inc/options.php:12797 inc/options.php:12922
+msgid "Slide top"
+msgstr ""
+
+#: inc/options.php:12798 inc/options.php:12923
+msgid "Slide bottom"
+msgstr ""
+
+#: inc/options.php:12799 inc/options.php:12924
+msgid "Slide left"
+msgstr ""
+
+#: inc/options.php:12800 inc/options.php:12925
+msgid "Slide right"
+msgstr ""
+
+#: inc/options.php:12808
+msgid "Page transition layer background color"
+msgstr ""
+
+#: inc/options.php:12809 inc/options.php:12940
+msgid "If left empty, white color will be used."
+msgstr ""
+
+#: inc/options.php:12818
+msgid "Website preloader"
+msgstr ""
+
+#: inc/options.php:12824 inc/options.php:12973
+msgid "Preloader style"
+msgstr ""
+
+#: inc/options.php:12825 inc/options.php:13601
+msgid ""
+"Important: adding a page preloader switches off image lazy loading for "
+"elements, which it is not specifically switched on for."
+msgstr ""
+
+#: inc/options.php:12828 inc/options.php:12829 inc/options.php:12976
+#: inc/options.php:12977 inc/options.php:13603
+msgid "No preloader"
+msgstr ""
+
+#: inc/options.php:12833 inc/options.php:12834 inc/options.php:12981
+#: inc/options.php:12982 inc/options.php:13604
+msgid "Rotating arc"
+msgstr ""
+
+#: inc/options.php:12838 inc/options.php:12986 inc/options.php:13605
+msgid "Dynamic rotating arc"
+msgstr ""
+
+#: inc/options.php:12839 inc/options.php:12987
+msgid "Dynamic arc"
+msgstr ""
+
+#: inc/options.php:12843 inc/options.php:12991 inc/options.php:13606
+msgid "Dynamic rotating arc with gradient"
+msgstr ""
+
+#: inc/options.php:12844 inc/options.php:12992
+msgid "Gradient arc"
+msgstr ""
+
+#: inc/options.php:12848 inc/options.php:12849 inc/options.php:12996
+#: inc/options.php:12997 inc/options.php:13607
+msgid "Blinking squares"
+msgstr ""
+
+#: inc/options.php:12853 inc/options.php:12854 inc/options.php:13001
+#: inc/options.php:13002 inc/options.php:13608
+msgid "Equalizer"
+msgstr ""
+
+#: inc/options.php:12858 inc/options.php:12859 inc/options.php:13006
+#: inc/options.php:13007 inc/options.php:13609
+msgid "Rotating circles"
+msgstr ""
+
+#: inc/options.php:12863 inc/options.php:12864 inc/options.php:13011
+#: inc/options.php:13012 inc/options.php:13610
+msgid "Pulsating circle"
+msgstr ""
+
+#: inc/options.php:12868 inc/options.php:12869 inc/options.php:13016
+#: inc/options.php:13017 inc/options.php:13611
+msgid "Pulsating circles"
+msgstr ""
+
+#: inc/options.php:12873 inc/options.php:12874 inc/options.php:13612
+msgid "Dynamic line"
+msgstr ""
+
+#: inc/options.php:12878 inc/options.php:12879
+msgid "Dynamic circle"
+msgstr ""
+
+#: inc/options.php:12883 inc/options.php:12884 inc/options.php:13613
+msgid "Progress aligned"
+msgstr ""
+
+#: inc/options.php:12888 inc/options.php:12889 inc/options.php:13614
+msgid "Progress centered"
+msgstr ""
+
+#: inc/options.php:12893 inc/options.php:12894 inc/options.php:13615
+msgid "Progress fullscreen"
+msgstr ""
+
+#: inc/options.php:12898 inc/options.php:12899 inc/options.php:13616
+msgid "Progress glowing"
+msgstr ""
+
+#: inc/options.php:12903 inc/options.php:12904
+msgid "Simple logo"
+msgstr ""
+
+#: inc/options.php:12908 inc/options.php:12909
+msgid "Logo with progress"
+msgstr ""
+
+#: inc/options.php:12918
+msgid "Website reveal animation"
+msgstr ""
+
+#: inc/options.php:12921
+msgid "Scale"
+msgstr ""
+
+#: inc/options.php:12932 inc/options.php:13026
+msgid "Preloader color"
+msgstr ""
+
+#: inc/options.php:12933 inc/options.php:13027
+msgid "If left empty, theme accent color will be used."
+msgstr ""
+
+#: inc/options.php:12939
+msgid "Preload screen background color"
+msgstr ""
+
+#: inc/options.php:12949
+msgid "Preloader label"
+msgstr ""
+
+#: inc/options.php:12952
+msgid "Text"
+msgstr ""
+
+#: inc/options.php:12961
+msgid "Upload your image file."
+msgstr ""
+
+#: inc/options.php:12962
+msgid "Please choose an image that is at least 80x80 px."
+msgstr ""
+
+#: inc/options.php:12967
+msgid "Elements preloader"
+msgstr ""
+
+#: inc/options.php:13033
+msgid "Filter"
+msgstr ""
+
+#: inc/options.php:13034
+msgid "Filter used with post and portfolio grids."
+msgstr ""
+
+#: inc/options.php:13048 inc/options.php:13067
+msgid "Accent color"
+msgstr ""
+
+#: inc/options.php:13054 inc/options.php:13073
+msgid "Slider knob shadow/glow"
+msgstr ""
+
+#: inc/options.php:13079
+msgid "To-Top button"
+msgstr ""
+
+#: inc/options.php:13080
+msgid "Clickable Scroll to-top button"
+msgstr ""
+
+#: inc/options.php:13088
+msgid "Enable To-Top button"
+msgstr ""
+
+#: inc/options.php:13094
+msgid "Button style"
+msgstr ""
+
+#: inc/options.php:13097
+msgid "Square"
+msgstr ""
+
+#: inc/options.php:13105
+msgid "Theme fonts"
+msgstr ""
+
+#: inc/options.php:13111
+msgid "Font pool"
+msgstr ""
+
+#: inc/options.php:13112
+msgid ""
+"Add fonts to the global fonts pool. They will become available to use in "
+"the theme after saving the changes and reloading the page."
+msgstr ""
+
+#: inc/options.php:13124
+msgid "Icon fonts"
+msgstr ""
+
+#: inc/options.php:13125
+msgid ""
+"Add custom icon fonts which will become available for use in the theme. "
+"They will become available to use in the theme after saving the changes and "
+"reloading the page. Please note that you need create an icon font on "
+"<strong>Icomoon</strong>, export it and then upload using this form."
+msgstr ""
+
+#: inc/options.php:13134
+msgid "Upload the font <code>.Zip</code> archive"
+msgstr ""
+
+#: inc/options.php:13151
+msgid "Header menu"
+msgstr ""
+
+#: inc/options.php:13153
+msgid "Choose a menu to display in page header."
+msgstr ""
+
+#: inc/options.php:13159
+msgid "Mobile header menu"
+msgstr ""
+
+#: inc/options.php:13161
+msgid "Choose a menu to display in mobile header."
+msgstr ""
+
+#: inc/options.php:13327
+msgid "Only for content block section type."
+msgstr ""
+
+#: inc/options.php:13600
+msgid "Page preloader"
+msgstr ""
+
+#: inc/options.php:13675
+msgid "Side padding"
+msgstr ""
+
+#: inc/options.php:13676
+msgid "Switch off to disable content padding on the left and on the right."
+msgstr ""
+
+#: inc/options.php:13677
+msgid "Useful when full-width grid is used to display archive items."
+msgstr ""
+
+#: inc/options.php:13723
+msgid "Set to <code>-1</code> to inherit value."
+msgstr ""
+
+#: inc/options.php:13925 inc/widgets.php:16
+#: templates/header/parts/button_primary.php:6
+#: templates/header/parts/button_primary.php:13
+#: templates/header/parts/button_secondary.php:6
+#: templates/header/parts/button_secondary.php:13
+#: templates/header/parts/text.php:7
+msgid "%s"
+msgstr ""
+
+#: inc/options.php:13932
+msgid "%s archives"
+msgstr ""
+
+#: inc/options.php:13945
+msgid "Single %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:337
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:377
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:393
+#: inc/plugins/class-tgm-plugin-activation.php:912
+#: inc/plugins/class-tgm-plugin-activation.php:2618
+#: inc/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:394
+#: inc/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:395
+#: inc/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1019
+#: inc/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2067
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2477
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2481
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2485
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2688
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2693
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2699
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3583
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3586
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3588
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3594
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3594
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3594
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3597
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3605
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/theme-prettify.php:31
+msgid "Page %s"
+msgstr ""
+
+#: inc/theme-prettify.php:83
+msgid "Extra large"
+msgstr ""
+
+#: inc/theme-prettify.php:84
+msgid "Super large"
+msgstr ""
+
+#: inc/theme-prettify.php:85
+msgid "Ultra large"
+msgstr ""
+
+#: inc/theme-support.php:43
+msgid "Header Menu"
+msgstr ""
+
+#: inc/theme-support.php:44
+msgid "Mobile Header Menu"
+msgstr ""
+
+#: inc/verification.php:73
+msgid "The Purchase Code is invalid"
+msgstr ""
+
+#: inc/verification.php:80 inc/verification.php:140
+msgid "Token or Purchase Code missing..."
+msgstr ""
+
+#: inc/verification.php:132
+msgid "The Purchase Code could not be deactivated"
+msgstr ""
+
+#: inc/woocommerce/woofunctions.php:78
+msgid "View cart"
+msgstr ""
+
+#: inc/woocommerce/woofunctions.php:86
+msgid "Checkout"
+msgstr ""
+
+#: inc/woocommerce/woofunctions.php:142
+msgid "Product has been added to your cart"
+msgstr ""
+
+#: inc/woocommerce/woofunctions.php:244
+msgid "No image found"
+msgstr ""
+
+#: maintenance-page.php:23
+msgid "We&rsquo;ll be back soon!"
+msgstr ""
+
+#: maintenance-page.php:24
+msgid ""
+"Sorry for the inconvenience but we&rsquo;re performing some maintenance at "
+"the moment. We&rsquo;ll be back online shortly!"
+msgstr ""
+
+#: maintenance-page.php:25
+msgid "&mdash; The Team"
+msgstr ""
+
+#: search.php:20
+msgid "%s results found"
+msgstr ""
+
+#: search.php:25
+msgid "Searching for:"
+msgstr ""
+
+#: search.php:44
+msgid "No results found"
+msgstr ""
+
+#: searchform.php:8
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12 templates/components/searchform.php:25
+#: templates/components/searchform.php:52
+#: templates/header/parts/search_field.php:4
+msgid "Search"
+msgstr ""
+
+#: templates/blog-post/blog-entry-author.php:11
+msgid "Post"
+msgstr ""
+
+#: templates/blog-post/blog-entry-author.php:13
+msgid "Posts"
+msgstr ""
+
+#: templates/blog-post/blog-entry-meta.php:4
+#: templates/blog-post/metro/blog-entry-header-metro.php:17
+#: templates/blog-post/minimal/blog-entry-minimal.php:49
+msgid "By"
+msgstr ""
+
+#: templates/blog-post/blog-entry-meta.php:7
+#: templates/blog-post/boxed/blog-entry-boxed.php:63
+#: templates/blog-post/column/blog-entry-column.php:45
+#: templates/blog-post/default/blog-entry-default.php:44
+#: templates/blog-post/magazine/blog-entry-header-magazine.php:8
+#: templates/blog-post/masonry/blog-entry-header-masonry.php:17
+#: templates/blog-post/metro/blog-entry-header-metro.php:8
+#: templates/blog-post/minimal/blog-entry-minimal.php:42
+#: templates/blog-post/sidebyside/blog-entry-footer-sbs.php:6
+#: templates/blog-post/sidebyside/blog-entry-footer-sbs.php:14
+#: templates/hero/hero-post.php:58
+msgid "View all posts by %s"
+msgstr ""
+
+#: templates/blog-post/blog-entry-meta.php:13
+#: templates/blog-post/masonry/blog-entry-footer-masonry.php:3
+#: templates/components/searchform.php:33
+msgid "in"
+msgstr ""
+
+#: templates/blog-post/blog-entry-thumbnail.php:32
+#: templates/blog-post/blog-entry-title.php:7
+#: templates/blog-post/boxed/blog-entry-boxed.php:45
+#: templates/blog-post/column/blog-entry-column.php:28
+#: templates/blog-post/default/blog-entry-default.php:30
+#: templates/blog-post/formats/blog-format-image.php:45
+#: templates/blog-post/formats/blog-format.php:26
+#: templates/blog-post/magazine/blog-entry-footer-magazine.php:2
+#: templates/blog-post/metro/blog-entry-footer-metro.php:8
+#: templates/blog-post/minimal/blog-entry-minimal.php:20
+#: templates/search-result.php:3
+msgid "Continue reading: %s"
+msgstr ""
+
+#: templates/blog-post/boxed/blog-entry-boxed.php:82
+#: templates/blog-post/masonry/blog-entry-header-masonry.php:29
+#: templates/blog-post/metro/blog-entry-footer-metro.php:16
+#: templates/blog-post/minimal/blog-entry-minimal.php:65
+#: templates/blog-post/sidebyside/blog-entry-header-sbs.php:13
+msgid "View comments for: "
+msgstr ""
+
+#: templates/blog-post/column/blog-entry-column.php:42
+msgid "by"
+msgstr ""
+
+#: templates/blog-post/sidebyside/blog-entry-sbs.php:22
+msgid "Popular"
+msgstr ""
+
+#: templates/blog-post/sidebyside/blog-entry-sbs.php:32
+msgid "Permalink to %s"
+msgstr ""
+
+#: templates/blog-post/single/blog-entry-content-single.php:7
+msgid "Continue reading"
+msgstr ""
+
+#: templates/components/filter.php:44
+msgid "Show all"
+msgstr ""
+
+#: templates/components/lightbox-nav.php:4 woocommerce/myaccount/orders.php:96
+msgid "Previous"
+msgstr ""
+
+#: templates/components/lightbox-nav.php:4
+msgid "Prev"
+msgstr ""
+
+#: templates/components/lightbox-nav.php:5 woocommerce/myaccount/orders.php:100
+msgid "Next"
+msgstr ""
+
+#: templates/components/loadmore.php:3
+msgid "Load more"
+msgstr ""
+
+#: templates/components/preloader.php:104
+#: templates/components/preloader.php:116
+msgid "Loading"
+msgstr ""
+
+#: templates/components/searchform.php:38
+msgid "Everywhere"
+msgstr ""
+
+#: templates/components/share.php:18
+msgid "Copy"
+msgstr ""
+
+#: templates/header/nav-mobile-top.php:43 templates/header/parts/cart.php:4
+#: templates/header/parts/cart_alt.php:4
+msgid "Click to view your shopping cart"
+msgstr ""
+
+#: templates/header/parts/login.php:39 templates/header/parts/login_alt.php:39
+msgid "Sign out"
+msgstr ""
+
+#: templates/header/parts/wishlist.php:6
+#: templates/header/parts/wishlist_alt.php:7
+msgid "View your wishlist"
+msgstr ""
+
+#: templates/hero/hero-post.php:64
+msgid " on "
+msgstr ""
+
+#: templates/nothing-found.php:2
+msgid "No items found"
+msgstr ""
+
+#: templates/section-pagination-single-bottom.php:31
+#: templates/section-pagination-single-images.php:17
+#: templates/section-pagination-single-images.php:42
+msgid "Previous "
+msgstr ""
+
+#: templates/section-pagination-single-bottom.php:32
+#: templates/section-pagination-single-images.php:18
+msgid "Next "
+msgstr ""
+
+#: templates/section-pagination-single-bottom.php:56
+#: templates/section-pagination-single-top.php:51
+msgid "Back"
+msgstr ""
+
+#: templates/section-pagination-single-images.php:52
+msgid "next "
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:28
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:35 woocommerce/cart/cart-totals.php:36
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:136
+#: woocommerce/cart/mini-cart.php:75
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:57 woocommerce/cart/cart-totals.php:58
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:73
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:94 woocommerce/cart/cart-totals.php:95
+#: woocommerce/myaccount/my-orders.php:16
+#: woocommerce/order/order-details.php:56
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:88
+#: woocommerce/checkout/form-pay.php:33 woocommerce/order/order-details.php:55
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:108
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:114
+#: woocommerce/global/quantity-input.php:32
+#: woocommerce/global/quantity-input.php:35
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:103
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148 woocommerce/cart/mini-cart.php:58
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:172
+msgid "Got a coupon code?"
+msgstr ""
+
+#: woocommerce/cart/cart.php:173 woocommerce/checkout/form-coupon.php:32
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:174 woocommerce/checkout/form-coupon.php:36
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:174
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:177
+#: woocommerce/cart/proceed-to-checkout-button.php:25
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:177
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:27
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:28
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:61
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:71
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:79
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:84
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:54
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:64
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:25
+msgid "Review and pay for your order"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:34
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:35
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:85
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:56
+#: woocommerce/single-product/tabs/additional-information.php:24
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:25
+msgid "Payment method"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:46
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:33
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/myaccount/my-orders.php:78
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:38
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44 woocommerce/checkout/thankyou.php:91
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:49
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:54
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:60
+#: woocommerce/order/order-details-customer.php:41
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:66
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:72
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/content-product.php:82
+msgid "Zoom"
+msgstr ""
+
+#: woocommerce/content-product.php:85
+msgid "Quick preview"
+msgstr ""
+
+#: woocommerce/content-product_cat.php:41
+msgid " items"
+msgstr ""
+
+#: woocommerce/content-product_cat.php:41
+msgid " item"
+msgstr ""
+
+#: woocommerce/content-product_cat.php:88
+#: woocommerce/single-product/product-image.php:90
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-lost-password.php:29
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39 woocommerce/myaccount/form-login.php:54
+#: woocommerce/myaccount/form-login.php:105
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:50 woocommerce/myaccount/form-login.php:63
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:52 woocommerce/myaccount/form-login.php:65
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:32
+#. translators: %s: Quantity.
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:44
+#: woocommerce/single-product/sale-flash.php:44
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:28
+msgid "Hello %s%s%s (not %2$s? %sSign out%s)"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:34
+msgid ""
+"From your account dashboard you can view your %1$srecent orders%2$s, manage "
+"your %3$sshipping and billing addresses%2$s and %4$sedit your password and "
+"account details%2$s."
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:28
+#: woocommerce/myaccount/my-downloads.php:32
+msgid "Available Downloads"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:29
+#: woocommerce/myaccount/my-downloads.php:33
+msgid "Download your purchases"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:51
+msgid "Go shop"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:53
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:24
+msgid "Set your account details and password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:45
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:50
+#: woocommerce/myaccount/form-login.php:98
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:58
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:62
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:66
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:76
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:33
+msgid "Edit information for this address type"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:52
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:52
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login to your account or register a new one"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:84
+#: woocommerce/myaccount/form-login.php:119
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:91
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:111
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:40
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:40
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:30
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:34
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:49
+#: woocommerce/wishlist-view.php:43
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:20
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:25
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:44
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:76
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:47
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:31 woocommerce/myaccount/orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32 woocommerce/myaccount/orders.php:27
+msgid "Review and track your recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:71
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:82
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:68
+#. translators: 1: formatted order total 2: total order items
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:108
+msgid "Go to the shop"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:110
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:52
+msgid "%s ending in %s"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:74
+msgid "No saved methods found."
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:81
+msgid "Add Payment Method"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:29 woocommerce/order/tracking.php:26
+#. translators: 1: order number 2: order date 3: order status
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:39 woocommerce/order/tracking.php:37
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:48 woocommerce/order/tracking.php:46
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:25
+msgid "Order Tracking"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:28
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:30
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:30
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Billing email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:34
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-again.php:22
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:27
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:34
+#: woocommerce/order/order-details.php:97
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:48
+msgid "Phone:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:71
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:74
+#: woocommerce/order/order-details-customer.php:88
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:85
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/order/order-details.php:47
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:48
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:38
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/review-meta.php:27
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:37
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:28
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:36
+#. translators: 1: reviews count 2: product name
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:39
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+#. translators: %s is product title
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:111
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:118
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:121
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:132
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:34
+msgid "Edit title"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:80 woocommerce/wishlist-view.php:160
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:87 woocommerce/wishlist-view.php:166
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:100 woocommerce/wishlist-view.php:172
+msgid "Stock Status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:167
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:173
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:173
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:182
+msgid "Added on : %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:208
+msgid "Shared"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:211
+msgid "Private"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:214
+msgid "Public"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:228 woocommerce/wishlist-view.php:236
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:246
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:263
+msgid "Add the selected products to the cart"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:271 woocommerce/wishlist-view.php:323
+msgid "Ask for an estimate"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:313
+msgid "Your email"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Scape"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themes.whiteboxstud.io/scape/main/landing"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Scape is a modern multipurpose WordPress theme. Scape is available "
+"exclusively on ThemeForest."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Whitebox-Studio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/whitebox-studio"
+msgstr ""
+
+#: inc/comment-walker.php:67 woocommerce/single-product/review-meta.php:45
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1206
+#: inc/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2427
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2473
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:61 woocommerce/myaccount/orders.php:56
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
