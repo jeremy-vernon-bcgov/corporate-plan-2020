@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', $_ENV("WORDPRESS_DB_NAME"));
+define( 'DB_NAME', getenv("WORDPRESS_DB_NAME"));
 
 /** MySQL database username */
-define( 'DB_USER', $_ENV("WORDPRESS_DB_USER"));
+define( 'DB_USER', getenv("WORDPRESS_DB_USER"));
 
 /** MySQL database password */
-define( 'DB_PASSWORD', $_ENV("WORDPRESS_DB_PASSWORD"));
+define( 'DB_PASSWORD', getenv("WORDPRESS_DB_PASSWORD"));
 
 /** MySQL hostname */
-define( 'DB_HOST', $_ENV("WORDPRESS_DB_HOST") );
+define( 'DB_HOST', getenv("WORDPRESS_DB_HOST") );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
@@ -46,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         $_ENV("AUTH_KEY_PHRASE") );
-define( 'SECURE_AUTH_KEY',  $_ENV("SECURE_AUTH_KEY_PHRASE") );
-define( 'LOGGED_IN_KEY',    $_ENV("LOGGED_IN_KEY_PHRASE") );
-define( 'NONCE_KEY',        $_ENV("NONCE_KEY_PHRASE") );
-define( 'AUTH_SALT',        $_ENV("AUTH_SALT") );
-define( 'SECURE_AUTH_SALT', $_ENV("SECURE_AUTH_SALT") );
-define( 'LOGGED_IN_SALT',   $_ENV("LOGGED_IN_SALT") );
-define( 'NONCE_SALT',       $_ENV("NONCE_SALT") );
+define( 'AUTH_KEY',         getenv("AUTH_KEY_PHRASE") );
+define( 'SECURE_AUTH_KEY',  getenv("SECURE_AUTH_KEY_PHRASE") );
+define( 'LOGGED_IN_KEY',    getenv("LOGGED_IN_KEY_PHRASE") );
+define( 'NONCE_KEY',        getenv("NONCE_KEY_PHRASE") );
+define( 'AUTH_SALT',        getenv("AUTH_SALT") );
+define( 'SECURE_AUTH_SALT', getenv("SECURE_AUTH_SALT") );
+define( 'LOGGED_IN_SALT',   getenv("LOGGED_IN_SALT") );
+define( 'NONCE_SALT',       getenv("NONCE_SALT") );
 
 /**#@-*/
 
